@@ -2,6 +2,8 @@
 
 # 项目蒸馏库交付包
 
+在线阅读（GitHub Pages）：https://vangong1999.github.io/ai-commerical-writing-knowledgebase/
+
 项目导入地址：https://github.com/VanGong1999/ai-commerical-writing-personalagents AI商业化写作多智能体项目 AI-Commerical-writing Agents Always-On Personal Multi-Agents
 
 [AI商业化写作多智能体项目](https://github.com/VanGong1999/ai-commerical-writing-personalagents)
