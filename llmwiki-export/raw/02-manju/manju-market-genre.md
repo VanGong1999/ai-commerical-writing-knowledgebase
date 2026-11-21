@@ -1,0 +1,39 @@
+---
+title: "漫剧题材与市场取向"
+project: "xiezuomanju"
+source_path: "02-manju/manju-market-genre.md"
+category: "manju"
+kind: "methodology"
+distilled: true
+source_layer: raw
+content_sha256: "4aafce9af96b1c9a6d87af5d0e38f1ef85653f375e4b7a4453934ab4e4ce38f3"
+source_bytes: 1073
+usage: "internal-writing-assistance"
+source_boundary: "retain attribution; verify rights before redistribution"
+---
+# 漫剧题材与市场取向
+> 来源：九格 / ai漫剧写作流程和方法.md；11、16、17；手册
+> 权威级别：P0
+> 关联 Skills：topic.market_brief
+> 关联 Agents：MarketBriefAgent
+
+## 一句话
+选题跟消费榜与渠道：国内曾侧重追妻等女频强情绪；男频动态漫重脑洞打脸；以当期数据为准。
+
+## 核心要点（条目）
+- 受众画像：动态漫偏下沉市场男性时，强装逼打脸、可适度高级擦边。
+- 沙雕/悬疑风格相对易过稿（课程口径）。
+- 改编对标：番茄/起点/创世/飞卢/纵横等榜书。
+- 海外与国内题材偏好不同（如黑手党霸总等——以最新渠道为准）。
+- 题材会季更，禁止把旧热度当永久真理。
+
+## 可执行清单 / 模板
+- 先看目标渠道近 30 天消费榜再定题材。
+- 新人优先仿写当期高过稿模板再微创新。
+
+## 反模式
+- 无视渠道写纯文学慢热。
+- 把过期题材当必中。
+
+## 与其他课差异（若有）
+短剧选题以查理课权威；漫剧题材以九格+渠道数据权威。

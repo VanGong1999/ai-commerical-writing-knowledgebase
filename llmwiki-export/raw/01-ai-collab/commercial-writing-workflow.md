@@ -1,0 +1,42 @@
+---
+title: "商业文章 AI 创作工作流"
+project: "xiezuomanju"
+source_path: "01-ai-collab/commercial-writing-workflow.md"
+category: "ai-collab"
+kind: "methodology"
+distilled: true
+source_layer: raw
+content_sha256: "d85c948718f57999df0abbe178ae7074f001d4a0a78d69cd9dc58d13dd41723c"
+source_bytes: 1209
+usage: "internal-writing-assistance"
+source_boundary: "retain attribution; verify rights before redistribution"
+---
+# 商业文章 AI 创作工作流
+> 来源：九格智能Nines AI写作训练营 / 2.md；ai漫剧写作流程和方法.md
+> 权威级别：P0
+> 关联 Skills：orchestrator/writing, manju.core_hook
+> 关联 Agents：WritingOrchestrator
+
+## 一句话
+商业可控写作必须分层：灵感→总纲→章纲→细纲→初稿→修改，禁止跳层一步成文。
+
+## 核心要点（条目）
+- 大纲术语：总纲/框架/大纲/章纲/细纲/卷纲——路径比对写更重要。
+- 每层输出是下层的约束条件，降低 AI 幻觉与跑题。
+- 漫剧循环：核心梗→前十集大纲→单集剧本→去AI味→人工校稿→扩大纲。
+- 初稿可 80% AI，精修必须 20% 人工（逻辑/钩子/人设语言）。
+
+## 可执行清单 / 模板
+- [ ] 核心梗已选定并评审
+- [ ] 前十集大纲表→文字版核对
+- [ ] 按集生成（800–1200字，≤3 场景，台词≤500）
+- [ ] 去 AI 味 + 人工逻辑复核
+- [ ] 集尾钩子与集纲一致
+
+## 反模式
+- 跳过细纲直接要正文。
+- 全篇一次生成后只做表面润色。
+- 不改集纲却硬改正文导致前后矛盾。
+
+## 与其他课差异（若有）
+- 无显著冲突；按权威源原则引用。

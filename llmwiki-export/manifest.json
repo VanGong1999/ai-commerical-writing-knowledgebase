@@ -1,0 +1,1043 @@
+{
+  "schemaVersion": 1,
+  "project": "xiezuomanju",
+  "sourceDirectory": "knowledge",
+  "format": "llmwiki-raw-markdown",
+  "counts": {
+    "discoveredMarkdown": 118,
+    "exported": 113,
+    "skippedMeta": 3,
+    "skippedReadme": 2,
+    "promptDocuments": 6
+  },
+  "records": [
+    {
+      "sourcePath": "01-ai-collab/charlie-ai-efficiency.md",
+      "outputPath": "raw/01-ai-collab/charlie-ai-efficiency.md",
+      "category": "ai-collab",
+      "kind": "methodology",
+      "title": "查理 AI 效率：四法·五法·从 0 到 1 交换流",
+      "contentSha256": "1d32a833217fc2ed334d125fd2d4aeb72f4e40e95a6fe93a62635dd14ee62b0a",
+      "sourceBytes": 6579
+    },
+    {
+      "sourcePath": "01-ai-collab/commercial-writing-workflow.md",
+      "outputPath": "raw/01-ai-collab/commercial-writing-workflow.md",
+      "category": "ai-collab",
+      "kind": "methodology",
+      "title": "商业文章 AI 创作工作流",
+      "contentSha256": "d85c948718f57999df0abbe178ae7074f001d4a0a78d69cd9dc58d13dd41723c",
+      "sourceBytes": 1209
+    },
+    {
+      "sourcePath": "01-ai-collab/core-hook-batch.md",
+      "outputPath": "raw/01-ai-collab/core-hook-batch.md",
+      "category": "ai-collab",
+      "kind": "methodology",
+      "title": "核心梗批量生成与筛选",
+      "contentSha256": "d921eea88b1d556a6d33b6268bff870e660d539473548d3ff241b87fc58e0e07",
+      "sourceBytes": 4557
+    },
+    {
+      "sourcePath": "01-ai-collab/de-ai-v38-method.md",
+      "outputPath": "raw/01-ai-collab/de-ai-v38-method.md",
+      "category": "ai-collab",
+      "kind": "methodology",
+      "title": "去 AI 味 V3.8 方法总览",
+      "contentSha256": "9fb37b5c03ec064dac414ce8381c8a62b961239026427791da2cd02dbb9434d4",
+      "sourceBytes": 1413
+    },
+    {
+      "sourcePath": "01-ai-collab/dissect-params.md",
+      "outputPath": "raw/01-ai-collab/dissect-params.md",
+      "category": "ai-collab",
+      "kind": "methodology",
+      "title": "拆书参数（参数化对标）",
+      "contentSha256": "65eeeb83e9d44d13608e6f20006f3c7bc65846cb5e9ab58e92f982dc4e22f521",
+      "sourceBytes": 4458
+    },
+    {
+      "sourcePath": "01-ai-collab/prompt-rules-and-task-split.md",
+      "outputPath": "raw/01-ai-collab/prompt-rules-and-task-split.md",
+      "category": "ai-collab",
+      "kind": "methodology",
+      "title": "提示词本质与任务拆解",
+      "contentSha256": "9c467ef1beb4e8fc4068e36a6dc577a17f6200dbd569a99152466b3ac0cf7b0c",
+      "sourceBytes": 5382
+    },
+    {
+      "sourcePath": "01-ai-collab/zhihu-ai-story.md",
+      "outputPath": "raw/01-ai-collab/zhihu-ai-story.md",
+      "category": "ai-collab",
+      "kind": "methodology",
+      "title": "知乎营 AI 创作专题要点",
+      "contentSha256": "0154cb5293f9cc97bdbe289cf14c79ab257de7b57b6b09f901c5025b5cd080d2",
+      "sourceBytes": 8165
+    },
+    {
+      "sourcePath": "02-manju/episode-outline-and-script.md",
+      "outputPath": "raw/02-manju/episode-outline-and-script.md",
+      "category": "manju",
+      "kind": "methodology",
+      "title": "分集大纲与分镜剧本规范",
+      "contentSha256": "bb753bafc17aa885bf030faf6327e6e3ebff21796843e13336863f106c7f2360",
+      "sourceBytes": 970
+    },
+    {
+      "sourcePath": "02-manju/jiuge-corehook-goldfinger.md",
+      "outputPath": "raw/02-manju/jiuge-corehook-goldfinger.md",
+      "category": "manju",
+      "kind": "methodology",
+      "title": "漫剧核心方法论：故事梗、金手指、世界观与题材判断",
+      "contentSha256": "df4d02943589a7e385e947cf617d6c19664a17e6123b9d40b54aba4b2add8ecf",
+      "sourceBytes": 7854
+    },
+    {
+      "sourcePath": "02-manju/jiuge-manju-advanced.md",
+      "outputPath": "raw/02-manju/jiuge-manju-advanced.md",
+      "category": "manju",
+      "kind": "methodology",
+      "title": "漫剧进阶：核心梗四步法、四幕结构与题材红线",
+      "contentSha256": "3a3708ed23250e093e1c22064a2fab9be99dca8a33ed48583e049e9be7ba67f9",
+      "sourceBytes": 8108
+    },
+    {
+      "sourcePath": "02-manju/jiuge-manju-ai-workflow.md",
+      "outputPath": "raw/02-manju/jiuge-manju-ai-workflow.md",
+      "category": "manju",
+      "kind": "methodology",
+      "title": "漫剧 AI 实操工作流与新人成长路径",
+      "contentSha256": "0456fff3761a2ec489553c8693d503211345eb07fa1021e84710bfc1a7f4242a",
+      "sourceBytes": 6457
+    },
+    {
+      "sourcePath": "02-manju/jiuge-market-platform.md",
+      "outputPath": "raw/02-manju/jiuge-market-platform.md",
+      "category": "manju",
+      "kind": "methodology",
+      "title": "漫剧市场、平台生态与投稿规范",
+      "contentSha256": "1abfb2cfb1e895e7b09d81c5c6a3d22aad0c531fd510215eab6cd5e601319cdb",
+      "sourceBytes": 5298
+    },
+    {
+      "sourcePath": "02-manju/manju-core-hook-format.md",
+      "outputPath": "raw/02-manju/manju-core-hook-format.md",
+      "category": "manju",
+      "kind": "methodology",
+      "title": "漫剧核心梗输出格式",
+      "contentSha256": "c7aa4f9d8e89883d274cf320a96a8c384c5195c6a6969074dcd1df0b1585b28c",
+      "sourceBytes": 1045
+    },
+    {
+      "sourcePath": "02-manju/manju-full-pipeline.md",
+      "outputPath": "raw/02-manju/manju-full-pipeline.md",
+      "category": "manju",
+      "kind": "methodology",
+      "title": "AI 漫剧全流程 SOP",
+      "contentSha256": "18d2357c54737a6c922d1fc0cc323e06cc101cc3d2ac6ea6f2ca1e9ca85b7124",
+      "sourceBytes": 1311
+    },
+    {
+      "sourcePath": "02-manju/manju-manual-qc.md",
+      "outputPath": "raw/02-manju/manju-manual-qc.md",
+      "category": "manju",
+      "kind": "methodology",
+      "title": "漫剧人工校稿六项",
+      "contentSha256": "7ce0ab502b269af32bb0cd75e1294abf8855c30a84765c5b4d4bfb0767349049",
+      "sourceBytes": 957
+    },
+    {
+      "sourcePath": "02-manju/manju-market-genre.md",
+      "outputPath": "raw/02-manju/manju-market-genre.md",
+      "category": "manju",
+      "kind": "methodology",
+      "title": "漫剧题材与市场取向",
+      "contentSha256": "4aafce9af96b1c9a6d87af5d0e38f1ef85653f375e4b7a4453934ab4e4ce38f3",
+      "sourceBytes": 1073
+    },
+    {
+      "sourcePath": "02-manju/manju-submission-pack.md",
+      "outputPath": "raw/02-manju/manju-submission-pack.md",
+      "category": "manju",
+      "kind": "methodology",
+      "title": "漫剧交付与过稿注意",
+      "contentSha256": "0d390c557ea49f40019f9bf957ddc4f877968449d19d470c38737f21345b23ce",
+      "sourceBytes": 894
+    },
+    {
+      "sourcePath": "03-duanju/beat20.md",
+      "outputPath": "raw/03-duanju/beat20.md",
+      "category": "duanju",
+      "kind": "methodology",
+      "title": "二十节拍大纲",
+      "contentSha256": "908694ce758f7ca6fcec829725652db1d18120caeb60e05448559b5589535169",
+      "sourceBytes": 6846
+    },
+    {
+      "sourcePath": "03-duanju/bridge8-and-witness.md",
+      "outputPath": "raw/03-duanju/bridge8-and-witness.md",
+      "category": "duanju",
+      "kind": "methodology",
+      "title": "八桥段与两性见证放大器",
+      "contentSha256": "212393aac42fbd29092e14ddf9416daee1f3e1ae67e1c8a49cc0975be43bfb73",
+      "sourceBytes": 5409
+    },
+    {
+      "sourcePath": "03-duanju/charlie-ops-index.md",
+      "outputPath": "raw/03-duanju/charlie-ops-index.md",
+      "category": "duanju",
+      "kind": "methodology",
+      "title": "查理短剧 Ops 索引（Stage ↔ 面板 ↔ Agent）",
+      "contentSha256": "4620b07abae83869a0c82695da0ce4de3a935b3e18c31eae70f8251bb640afb0",
+      "sourceBytes": 1037
+    },
+    {
+      "sourcePath": "03-duanju/five-cool-points.md",
+      "outputPath": "raw/03-duanju/five-cool-points.md",
+      "category": "duanju",
+      "kind": "methodology",
+      "title": "短剧五大爽点",
+      "contentSha256": "fa91cd4e5c478e43e74b0a08839e5ade0272c63f807ba5e1227bb0b9377f53bd",
+      "sourceBytes": 5316
+    },
+    {
+      "sourcePath": "03-duanju/lapian-principles.md",
+      "outputPath": "raw/03-duanju/lapian-principles.md",
+      "category": "duanju",
+      "kind": "methodology",
+      "title": "短剧拉片原则（个案方法论）",
+      "contentSha256": "179f95dca894c8041129d4dfb95810964362419ed54f2da948e5fcf19c8b3fd3",
+      "sourceBytes": 6237
+    },
+    {
+      "sourcePath": "03-duanju/product-mindset.md",
+      "outputPath": "raw/03-duanju/product-mindset.md",
+      "category": "duanju",
+      "kind": "methodology",
+      "title": "短剧产品思维：解压·代入·粘度",
+      "contentSha256": "f8b4379e1c1404ea6d204b412bf1fa3c2728f541cecc0cb6055ec43ee0f8605a",
+      "sourceBytes": 6936
+    },
+    {
+      "sourcePath": "03-duanju/resonance-and-shells.md",
+      "outputPath": "raw/03-duanju/resonance-and-shells.md",
+      "category": "duanju",
+      "kind": "methodology",
+      "title": "共鸣 YY 与故事壳",
+      "contentSha256": "e3d1ac50866969e28a6088fc7a300147239642523de7d870120f11f1cb483417",
+      "sourceBytes": 4736
+    },
+    {
+      "sourcePath": "03-duanju/revise20-gender-deliver.md",
+      "outputPath": "raw/03-duanju/revise20-gender-deliver.md",
+      "category": "duanju",
+      "kind": "methodology",
+      "title": "修改20·男女频路径·交付八规范",
+      "contentSha256": "9f1c4a7e7a80cba4e61cdf8c3de7ab2cfc889a12a786a7ce66b6dcdddea2e966",
+      "sourceBytes": 7727
+    },
+    {
+      "sourcePath": "03-duanju/scene-dialogue-hooks.md",
+      "outputPath": "raw/03-duanju/scene-dialogue-hooks.md",
+      "category": "duanju",
+      "kind": "methodology",
+      "title": "场三件事·台词·悬念一加一",
+      "contentSha256": "343d2fa08f6f79f28d5532c78ee441cd9025d7fa6c23413203b105d4d347166c",
+      "sourceBytes": 11757
+    },
+    {
+      "sourcePath": "03-duanju/topic-formula.md",
+      "outputPath": "raw/03-duanju/topic-formula.md",
+      "category": "duanju",
+      "kind": "methodology",
+      "title": "短剧选题三公式",
+      "contentSha256": "950f87a1adfc6858dc40a2a41a666977e89513e62f3f0858f6c3a8f46575d348",
+      "sourceBytes": 6886
+    },
+    {
+      "sourcePath": "04-webnovel/emotion-line-and-perspective.md",
+      "outputPath": "raw/04-webnovel/emotion-line-and-perspective.md",
+      "category": "webnovel",
+      "kind": "methodology",
+      "title": "感情线与视角",
+      "contentSha256": "6637f14e1e21656c2a6665403a265a2c19bd381adb32bccbce6b55a4d039c0d0",
+      "sourceBytes": 2598
+    },
+    {
+      "sourcePath": "04-webnovel/gold-finger-and-loop.md",
+      "outputPath": "raw/04-webnovel/gold-finger-and-loop.md",
+      "category": "webnovel",
+      "kind": "methodology",
+      "title": "金手指与循环写法",
+      "contentSha256": "97d94e2ec149b68b00e9c59a4eb8df33f025d9acebe650a14a6405e32644acf0",
+      "sourceBytes": 2981
+    },
+    {
+      "sourcePath": "04-webnovel/hotsales-dissect-method.md",
+      "outputPath": "raw/04-webnovel/hotsales-dissect-method.md",
+      "category": "webnovel",
+      "kind": "methodology",
+      "title": "零基础高阶：热销拆解方法论",
+      "contentSha256": "5ad1a8a820e45f641b370a7390f295460fd70223c8c3c8a348df0bf865b35a74",
+      "sourceBytes": 6311
+    },
+    {
+      "sourcePath": "04-webnovel/innovation-and-dissect.md",
+      "outputPath": "raw/04-webnovel/innovation-and-dissect.md",
+      "category": "webnovel",
+      "kind": "methodology",
+      "title": "微创新、反套路与拆爆款",
+      "contentSha256": "6869132514266f69c6db7d12b35c19129e735f6c5719f52f6e314d979b69ce3a",
+      "sourceBytes": 2381
+    },
+    {
+      "sourcePath": "04-webnovel/jiuge-inspiration-to-story.md",
+      "outputPath": "raw/04-webnovel/jiuge-inspiration-to-story.md",
+      "category": "webnovel",
+      "kind": "methodology",
+      "title": "从灵感到故事：四层级模型与扩展路径",
+      "contentSha256": "eb6fce02da465b926c9bd2238ade2683798989b0758eb993e87979aa1ff42516",
+      "sourceBytes": 6498
+    },
+    {
+      "sourcePath": "04-webnovel/opening-attract.md",
+      "outputPath": "raw/04-webnovel/opening-attract.md",
+      "category": "webnovel",
+      "kind": "methodology",
+      "title": "吸引力开篇：冲突·悬念·设定",
+      "contentSha256": "2b201ee1af8030e94a74f4fbab8d536a2cdd8b3f6aa53dce3637fa6f8906b6f5",
+      "sourceBytes": 4402
+    },
+    {
+      "sourcePath": "04-webnovel/outline-hierarchy.md",
+      "outputPath": "raw/04-webnovel/outline-hierarchy.md",
+      "category": "webnovel",
+      "kind": "methodology",
+      "title": "草纲到细纲的层级",
+      "contentSha256": "45b88de796ffb753d75225aeba00f411ec23264715414e711cdb4b83c280a09e",
+      "sourceBytes": 3286
+    },
+    {
+      "sourcePath": "04-webnovel/scan-rank-and-platform.md",
+      "outputPath": "raw/04-webnovel/scan-rank-and-platform.md",
+      "category": "webnovel",
+      "kind": "methodology",
+      "title": "刷榜、平台气质与选题顺序",
+      "contentSha256": "9e16978c6e0131f458d94702694e0d8c398b48c6f309648bcd7735ec7bf0ae54",
+      "sourceBytes": 3193
+    },
+    {
+      "sourcePath": "04-webnovel/six-standards-and-mindset.md",
+      "outputPath": "raw/04-webnovel/six-standards-and-mindset.md",
+      "category": "webnovel",
+      "kind": "methodology",
+      "title": "网文赚钱六标准与认知",
+      "contentSha256": "b0c565f6acb19e031a977550c7c69c38995f1eb3c788bff4b9ba4b59264a45d2",
+      "sourceBytes": 4067
+    },
+    {
+      "sourcePath": "04-webnovel/title-blurb-stuck.md",
+      "outputPath": "raw/04-webnovel/title-blurb-stuck.md",
+      "category": "webnovel",
+      "kind": "methodology",
+      "title": "书名简介与破卡文",
+      "contentSha256": "81ee4ab3ac618e3491b32b0329acc064d8a60803dcc61fa33a07f0e921f3f094",
+      "sourceBytes": 3082
+    },
+    {
+      "sourcePath": "04-webnovel/xiezuo2-pearl-and-twist.md",
+      "outputPath": "raw/04-webnovel/xiezuo2-pearl-and-twist.md",
+      "category": "webnovel",
+      "kind": "methodology",
+      "title": "珍珠项链结构与反转层次（写作课程2）",
+      "contentSha256": "5edd2fd53ffd2581df51ff51015beeb90daaf872ed9dc0534b927e6562960486",
+      "sourceBytes": 4781
+    },
+    {
+      "sourcePath": "05-character/antagonist-and-cast.md",
+      "outputPath": "raw/05-character/antagonist-and-cast.md",
+      "category": "character",
+      "kind": "methodology",
+      "title": "对手、配角与群像控制",
+      "contentSha256": "e6064746bff1602eec1c74a941ecfe87e1875e6448ebdcd38141f9b93ea1effe",
+      "sourceBytes": 692
+    },
+    {
+      "sourcePath": "05-character/bible-and-big5.md",
+      "outputPath": "raw/05-character/bible-and-big5.md",
+      "category": "character",
+      "kind": "methodology",
+      "title": "人设清单与立体角色",
+      "contentSha256": "d006af1247b8d7f422471be2ea2849af6e723eecea8725653b318eb4778f6dd8",
+      "sourceBytes": 896
+    },
+    {
+      "sourcePath": "05-character/dialogue-voice.md",
+      "outputPath": "raw/05-character/dialogue-voice.md",
+      "category": "character",
+      "kind": "methodology",
+      "title": "对话与角色声线",
+      "contentSha256": "e4a4f98001756a26ceb27aea68aa6de7a69facc177ac60ca6b24004e4a086d48",
+      "sourceBytes": 675
+    },
+    {
+      "sourcePath": "05-character/empathy-three.md",
+      "outputPath": "raw/05-character/empathy-three.md",
+      "category": "character",
+      "kind": "methodology",
+      "title": "共情三招：可怜可信可爱",
+      "contentSha256": "4209c37a9bd185588f8c7d674280ad1d2085042ef03f3c3c276ce84044ffc0b4",
+      "sourceBytes": 5986
+    },
+    {
+      "sourcePath": "05-character/jiuge-character-depth.md",
+      "outputPath": "raw/05-character/jiuge-character-depth.md",
+      "category": "character",
+      "kind": "methodology",
+      "title": "人设深度：大五人格、欲望恐惧秘密与差异化人设",
+      "contentSha256": "e2deb18546dc03262b1b16281099937748986e5e672bc687c2cd5a450350ced0",
+      "sourceBytes": 7505
+    },
+    {
+      "sourcePath": "05-character/soul-check.md",
+      "outputPath": "raw/05-character/soul-check.md",
+      "category": "character",
+      "kind": "methodology",
+      "title": "灵魂拷问：情节是否符合人设",
+      "contentSha256": "a85e8268922d0af069260cb9b3a859d9688bdf52d81dea7daa726c924e848ce7",
+      "sourceBytes": 627
+    },
+    {
+      "sourcePath": "05-character/xiezuo2-character-tricks.md",
+      "outputPath": "raw/05-character/xiezuo2-character-tricks.md",
+      "category": "character",
+      "kind": "methodology",
+      "title": "人设五技巧与行为逻辑（写作课程2）",
+      "contentSha256": "37e32fd633e1487437e7f229b61c9f14ed2b8cd6e875c6d85f47ccbaf4408554",
+      "sourceBytes": 4300
+    },
+    {
+      "sourcePath": "06-structure/conflict-expectation.md",
+      "outputPath": "raw/06-structure/conflict-expectation.md",
+      "category": "structure",
+      "kind": "methodology",
+      "title": "期待感与冲突设计",
+      "contentSha256": "ee293868a922e8bb4cd9d0915c2aeb659551d3081bd35f96f684a04d4419c12d",
+      "sourceBytes": 8808
+    },
+    {
+      "sourcePath": "06-structure/fifteen-vs-beat20.md",
+      "outputPath": "raw/06-structure/fifteen-vs-beat20.md",
+      "category": "structure",
+      "kind": "methodology",
+      "title": "查理十五步 ↔ Beat20 对照表",
+      "contentSha256": "6f7e34e08945bda69d8f368549be6ce8d903fcac65e491f2d7242a4f17ed6663",
+      "sourceBytes": 3483
+    },
+    {
+      "sourcePath": "06-structure/foreshadow-setup-climax.md",
+      "outputPath": "raw/06-structure/foreshadow-setup-climax.md",
+      "category": "structure",
+      "kind": "methodology",
+      "title": "伏笔、铺垫与高潮",
+      "contentSha256": "b6937f471d0747064e63d6df89e51dc5c935e53522322504d59c500fb58f382b",
+      "sourceBytes": 2005
+    },
+    {
+      "sourcePath": "06-structure/midpoint-dark-night.md",
+      "outputPath": "raw/06-structure/midpoint-dark-night.md",
+      "category": "structure",
+      "kind": "methodology",
+      "title": "故事中点与至暗时刻",
+      "contentSha256": "71a9fded2775b7b0e14de3d5774ed536100999649f7885144a40ca27062deaa0",
+      "sourceBytes": 3800
+    },
+    {
+      "sourcePath": "06-structure/opening-hooks-catalog.md",
+      "outputPath": "raw/06-structure/opening-hooks-catalog.md",
+      "category": "structure",
+      "kind": "methodology",
+      "title": "开篇钩子手法目录",
+      "contentSha256": "c8d1edc2bf00cd95f5387c002b9035bf90e80cd0c0b96a35a8b4199b00299768",
+      "sourceBytes": 751
+    },
+    {
+      "sourcePath": "06-structure/seven-step-unit.md",
+      "outputPath": "raw/06-structure/seven-step-unit.md",
+      "category": "structure",
+      "kind": "methodology",
+      "title": "七步法单元故事",
+      "contentSha256": "8107f8cecc33af748acf3f27eabaff420b1cefb6e5123654fac34b8240921954",
+      "sourceBytes": 1986
+    },
+    {
+      "sourcePath": "06-structure/transitions-and-unit-arc.md",
+      "outputPath": "raw/06-structure/transitions-and-unit-arc.md",
+      "category": "structure",
+      "kind": "methodology",
+      "title": "转场、单元弧与章回体",
+      "contentSha256": "ea9d61fc4240dc41fa9bcd6dc8959a2850199aa9ea47ab641dc1c3811c4c1d9f",
+      "sourceBytes": 621
+    },
+    {
+      "sourcePath": "07-emotion-cool/cool12-maslow.md",
+      "outputPath": "raw/07-emotion-cool/cool12-maslow.md",
+      "category": "emotion-cool",
+      "kind": "methodology",
+      "title": "十二类爽点与需求层次",
+      "contentSha256": "8c6f2ed4fffc917f85deeafac3491ab5a2c357e16641264f7bd694d74f2e06a6",
+      "sourceBytes": 3789
+    },
+    {
+      "sourcePath": "07-emotion-cool/emotion-density.md",
+      "outputPath": "raw/07-emotion-cool/emotion-density.md",
+      "category": "emotion-cool",
+      "kind": "methodology",
+      "title": "情绪节奏与章级密度",
+      "contentSha256": "28482f1e5cbe1239b5f0738f72f748d21d59e59cecc67d82357579ce2727ae9c",
+      "sourceBytes": 7212
+    },
+    {
+      "sourcePath": "07-emotion-cool/face-slap.md",
+      "outputPath": "raw/07-emotion-cool/face-slap.md",
+      "category": "emotion-cool",
+      "kind": "methodology",
+      "title": "打脸与对比爽感（装逼打脸三阶设计）",
+      "contentSha256": "bb2376060962c050dcaae29443efdd3e5aa828423d1eb829c7a2e66d10013406",
+      "sourceBytes": 4092
+    },
+    {
+      "sourcePath": "07-emotion-cool/pressure-relief.md",
+      "outputPath": "raw/07-emotion-cool/pressure-relief.md",
+      "category": "emotion-cool",
+      "kind": "methodology",
+      "title": "解压优先与爽感伦理",
+      "contentSha256": "779ee0bd50d464b3c663dd14c72b8b34dbbd86ce04e4e6c5f4c2c0b83be821bb",
+      "sourceBytes": 689
+    },
+    {
+      "sourcePath": "07-emotion-cool/suspense-info-gap.md",
+      "outputPath": "raw/07-emotion-cool/suspense-info-gap.md",
+      "category": "emotion-cool",
+      "kind": "methodology",
+      "title": "悬念、信息差与超预期兑现",
+      "contentSha256": "0ce4b31841b749c184b8066cc6c36d34433a6ffaab2b44f2fcf243bf825339fe",
+      "sourceBytes": 732
+    },
+    {
+      "sourcePath": "08-swap-imitate/female-four-swap-three.md",
+      "outputPath": "raw/08-swap-imitate/female-four-swap-three.md",
+      "category": "swap-imitate",
+      "kind": "methodology",
+      "title": "女频四换三（狂更猫）",
+      "contentSha256": "5c724151492fa5a9c85fdedb45956a564e95923b4fd097126b2823ad4a13518b",
+      "sourceBytes": 2021
+    },
+    {
+      "sourcePath": "08-swap-imitate/once-twice-swap.md",
+      "outputPath": "raw/08-swap-imitate/once-twice-swap.md",
+      "category": "swap-imitate",
+      "kind": "methodology",
+      "title": "一度与二度换元实操（七步工作流）",
+      "contentSha256": "f044f3d8620ad0c6f210075c0ddc9ca59678853ac40bf725fbeaf1db4cba3430",
+      "sourceBytes": 4152
+    },
+    {
+      "sourcePath": "08-swap-imitate/six-story-sources.md",
+      "outputPath": "raw/08-swap-imitate/six-story-sources.md",
+      "category": "swap-imitate",
+      "kind": "methodology",
+      "title": "换元法六大元素与一度/二度置换",
+      "contentSha256": "c5ea2576287653079bcb7133922e24f33441567d41a573162201d7ff110b1941",
+      "sourceBytes": 5236
+    },
+    {
+      "sourcePath": "08-swap-imitate/wash-vs-imitate-boundary.md",
+      "outputPath": "raw/08-swap-imitate/wash-vs-imitate-boundary.md",
+      "category": "swap-imitate",
+      "kind": "methodology",
+      "title": "洗稿、仿节奏与合规边界",
+      "contentSha256": "e4bc71d195bd2d0f68754ed1f62fb4e3535d96e43b14b2591248d228ce571e0a",
+      "sourceBytes": 3675
+    },
+    {
+      "sourcePath": "09-quality/de-ai-qc-checklist.md",
+      "outputPath": "raw/09-quality/de-ai-qc-checklist.md",
+      "category": "quality",
+      "kind": "methodology",
+      "title": "去 AI 味质检清单",
+      "contentSha256": "2640e957eee2a9fd98798c1c29ab9409efc46115124090e750d61c79d50fa3d2",
+      "sourceBytes": 755
+    },
+    {
+      "sourcePath": "09-quality/immersion-qc.md",
+      "outputPath": "raw/09-quality/immersion-qc.md",
+      "category": "quality",
+      "kind": "methodology",
+      "title": "代入感与情绪质检",
+      "contentSha256": "b95a1c75990bfc8d011c5775ac3fa89eb2deb785bb97b36aa84d65b1fe25dccd",
+      "sourceBytes": 5527
+    },
+    {
+      "sourcePath": "09-quality/jiuge-redline-policy.md",
+      "outputPath": "raw/09-quality/jiuge-redline-policy.md",
+      "category": "quality",
+      "kind": "methodology",
+      "title": "写作红线、平台政策与雷区规避",
+      "contentSha256": "106c8087f8810bc10efcc68c3845adb46bdcd548e91a7f169057b9811d7e226c",
+      "sourceBytes": 5163
+    },
+    {
+      "sourcePath": "09-quality/jiuge-visual-sense.md",
+      "outputPath": "raw/09-quality/jiuge-visual-sense.md",
+      "category": "quality",
+      "kind": "methodology",
+      "title": "画面感与五觉法：把文字改出画面",
+      "contentSha256": "2a519c760a05ee058281d3b4a93f07e4404a1d55553a7e7cc3877f65156cb129",
+      "sourceBytes": 4617
+    },
+    {
+      "sourcePath": "09-quality/precise-prose.md",
+      "outputPath": "raw/09-quality/precise-prose.md",
+      "category": "quality",
+      "kind": "methodology",
+      "title": "精准文笔与信息密度",
+      "contentSha256": "9e5f7c744da0757ff7f96f02c9d026ee3f90870b482e40304ae61e58c3a2bc72",
+      "sourceBytes": 3094
+    },
+    {
+      "sourcePath": "09-quality/revise20-and-logic.md",
+      "outputPath": "raw/09-quality/revise20-and-logic.md",
+      "category": "quality",
+      "kind": "methodology",
+      "title": "改稿：修改20与逻辑确认",
+      "contentSha256": "363660336fa7fb24a1660322fa34f72733c40a386b3ba7c74ddd25f06e4a4add",
+      "sourceBytes": 4129
+    },
+    {
+      "sourcePath": "09-quality/show-dont-tell.md",
+      "outputPath": "raw/09-quality/show-dont-tell.md",
+      "category": "quality",
+      "kind": "methodology",
+      "title": "展示而非告知（去说明腔）",
+      "contentSha256": "4a93042e38b383bbc8b4beb9ccba8d5b165e6361c0fa7979b558c21b0265ed09",
+      "sourceBytes": 2298
+    },
+    {
+      "sourcePath": "10-ops-monetize/beida-monetize-paths.md",
+      "outputPath": "raw/10-ops-monetize/beida-monetize-paths.md",
+      "category": "ops-monetize",
+      "kind": "methodology",
+      "title": "故事变现路径图谱",
+      "contentSha256": "1f237b4860a41047c3c3f9554841d85b67b9fc18729de792b5799a19f2d9ac84",
+      "sourceBytes": 3415
+    },
+    {
+      "sourcePath": "10-ops-monetize/fanqie-platform-rules.md",
+      "outputPath": "raw/10-ops-monetize/fanqie-platform-rules.md",
+      "category": "ops-monetize",
+      "kind": "methodology",
+      "title": "番茄/网文平台规则速查库（狂更猫 58 条待核实口径）",
+      "contentSha256": "d1715ec7040c3957ce0d4d3645857b67a3c813a764ce4f15f3498c5af399c485",
+      "sourceBytes": 3303
+    },
+    {
+      "sourcePath": "10-ops-monetize/hongniangzi-submit.md",
+      "outputPath": "raw/10-ops-monetize/hongniangzi-submit.md",
+      "category": "ops-monetize",
+      "kind": "methodology",
+      "title": "投稿心法与体裁变现",
+      "contentSha256": "ed1b94592ad0f86f5926463888a9fc5b68986c307cf7738eb15788a688775f14",
+      "sourceBytes": 6542
+    },
+    {
+      "sourcePath": "10-ops-monetize/jiuge-newcomer-path.md",
+      "outputPath": "raw/10-ops-monetize/jiuge-newcomer-path.md",
+      "category": "ops-monetize",
+      "kind": "methodology",
+      "title": "新人入行路径、心态与平台分层",
+      "contentSha256": "51f1f1f486b025640c447027fba4ed18484fc2e2c42479f16b3505a8e5f8d538",
+      "sourceBytes": 7083
+    },
+    {
+      "sourcePath": "10-ops-monetize/mimeng-viral-pipeline.md",
+      "outputPath": "raw/10-ops-monetize/mimeng-viral-pipeline.md",
+      "category": "ops-monetize",
+      "kind": "methodology",
+      "title": "迷蒙爆款流水线与变现七途",
+      "contentSha256": "078e859e5f8f8ac743f98ec5061e22e83113294ba4807f098b7a2ab4beabb5d1",
+      "sourceBytes": 5902
+    },
+    {
+      "sourcePath": "10-ops-monetize/shortvideo-nine-ways.md",
+      "outputPath": "raw/10-ops-monetize/shortvideo-nine-ways.md",
+      "category": "ops-monetize",
+      "kind": "methodology",
+      "title": "抖音变现九种方式",
+      "contentSha256": "5d730d44113f8d554b67ff8383ef2fe32e9b8ea7977f974ec93ec0fc43d4a325",
+      "sourceBytes": 3665
+    },
+    {
+      "sourcePath": "10-ops-monetize/shortvideo-triangle.md",
+      "outputPath": "raw/10-ops-monetize/shortvideo-triangle.md",
+      "category": "ops-monetize",
+      "kind": "methodology",
+      "title": "短视频三角定位与需求三级",
+      "contentSha256": "f7ddf8eb0bf21c695ceb1a66d6493cc11cd680934a3ef7ad436c73bc008a8717",
+      "sourceBytes": 5405
+    },
+    {
+      "sourcePath": "10-ops-monetize/zhihu-account-and-ops.md",
+      "outputPath": "raw/10-ops-monetize/zhihu-account-and-ops.md",
+      "category": "ops-monetize",
+      "kind": "methodology",
+      "title": "账号价值、选题与全媒体运营",
+      "contentSha256": "ace98f30022b01eb25c85d3be8b4981214a76c567530fa36f892b6a02f897a71",
+      "sourceBytes": 10002
+    },
+    {
+      "sourcePath": "10-ops-monetize/zhihu-commercial-templates.md",
+      "outputPath": "raw/10-ops-monetize/zhihu-commercial-templates.md",
+      "category": "ops-monetize",
+      "kind": "methodology",
+      "title": "知乎商业内容三模板与卖点提炼",
+      "contentSha256": "fb2f849788f952ae2e4d7a5d2f6b140670ec67c199b4e5c6072abd76d89d6152",
+      "sourceBytes": 9497
+    },
+    {
+      "sourcePath": "11-ip-adapt/brand-story-modes.md",
+      "outputPath": "raw/11-ip-adapt/brand-story-modes.md",
+      "category": "ip-adapt",
+      "kind": "methodology",
+      "title": "品牌故事五种正面模式",
+      "contentSha256": "2875db0a73aa4e8d65a817e756239cb86c1d4a79c14be6cb86fb732dc3f0fd1d",
+      "sourceBytes": 3041
+    },
+    {
+      "sourcePath": "11-ip-adapt/jiuge-ip-adapt.md",
+      "outputPath": "raw/11-ip-adapt/jiuge-ip-adapt.md",
+      "category": "ip-adapt",
+      "kind": "methodology",
+      "title": "IP 改编方法论（九格）",
+      "contentSha256": "4812b4a6563757ba511be6324b8b117cebdb179748c8af09861d1ab7a08829a7",
+      "sourceBytes": 681
+    },
+    {
+      "sourcePath": "11-ip-adapt/novel-to-manju.md",
+      "outputPath": "raw/11-ip-adapt/novel-to-manju.md",
+      "category": "ip-adapt",
+      "kind": "methodology",
+      "title": "网文改漫剧要点",
+      "contentSha256": "4c6524de02ed598e0300b0e611f3661bebd2da68fd4f9165c100ca638c78d9e8",
+      "sourceBytes": 600
+    },
+    {
+      "sourcePath": "11-ip-adapt/screen-adapt-checklist.md",
+      "outputPath": "raw/11-ip-adapt/screen-adapt-checklist.md",
+      "category": "ip-adapt",
+      "kind": "methodology",
+      "title": "影视向改编检查单",
+      "contentSha256": "b2e7c83624f420d18b675100b727d738a0a13deab8656782b6fafce2d8ed5534",
+      "sourceBytes": 3159
+    },
+    {
+      "sourcePath": "11-ip-adapt/xiezuo1-pilot-structure.md",
+      "outputPath": "raw/11-ip-adapt/xiezuo1-pilot-structure.md",
+      "category": "ip-adapt",
+      "kind": "methodology",
+      "title": "一小时试播集结构法（写作课程1）",
+      "contentSha256": "082a32e7985114fad3f8c0af472e7559b76774c3234b2e1611dcb7c2386b3f61",
+      "sourceBytes": 7802
+    },
+    {
+      "sourcePath": "12-female-long/chase-wife-template.md",
+      "outputPath": "raw/12-female-long/chase-wife-template.md",
+      "category": "female-long",
+      "kind": "methodology",
+      "title": "追妻火葬场模板",
+      "contentSha256": "dc5a548d374f36223bb2f9945d4eb0d0a74d3fcb75dc74af2ab62697f08b8e81",
+      "sourceBytes": 2571
+    },
+    {
+      "sourcePath": "12-female-long/female-emotion-romance.md",
+      "outputPath": "raw/12-female-long/female-emotion-romance.md",
+      "category": "female-long",
+      "kind": "methodology",
+      "title": "女频情绪与爱情套路",
+      "contentSha256": "8e2c6b8ebeb662c802244e23dd7af71ac4ecfa4fff46890f6832bf5c975667c8",
+      "sourceBytes": 2340
+    },
+    {
+      "sourcePath": "12-female-long/female-opening-five.md",
+      "outputPath": "raw/12-female-long/female-opening-five.md",
+      "category": "female-long",
+      "kind": "methodology",
+      "title": "女频开篇五要素与前三章",
+      "contentSha256": "162a3f5415e1fc9291056b1c756c407b3ee3d94870b2f78b92235054c133e216",
+      "sourceBytes": 2482
+    },
+    {
+      "sourcePath": "12-female-long/female-pace.md",
+      "outputPath": "raw/12-female-long/female-pace.md",
+      "category": "female-long",
+      "kind": "methodology",
+      "title": "女频长篇节奏",
+      "contentSha256": "632cd45b6b2a02e7cedf5ef80297c238d75ab6bf007405c619f9c4a159b46450",
+      "sourceBytes": 687
+    },
+    {
+      "sourcePath": "12-female-long/jiuge-female-track-monetize.md",
+      "outputPath": "raw/12-female-long/jiuge-female-track-monetize.md",
+      "category": "female-long",
+      "kind": "methodology",
+      "title": "女频赛道拆解、平台签约与变现适配",
+      "contentSha256": "37ae6f8aefcc257093f69c8b0190a8a7ac684946c031cd82a328c0197f39d4ef",
+      "sourceBytes": 6585
+    },
+    {
+      "sourcePath": "13-short-fiction/commercial-storytelling.md",
+      "outputPath": "raw/13-short-fiction/commercial-storytelling.md",
+      "category": "short-fiction",
+      "kind": "methodology",
+      "title": "故事化商业写作",
+      "contentSha256": "a4e540c397aa889f7db6faabd86be302791bebb372f73ee1b95395a00ef34452",
+      "sourceBytes": 6728
+    },
+    {
+      "sourcePath": "13-short-fiction/jiuge-topic-avoidance.md",
+      "outputPath": "raw/13-short-fiction/jiuge-topic-avoidance.md",
+      "category": "short-fiction",
+      "kind": "methodology",
+      "title": "短篇选题避坑与平台政策/写作禁忌",
+      "contentSha256": "906afcdaefba32a69adca64400a84374b84d9a3fe42feee08a1ae4a13ccd39a6",
+      "sourceBytes": 5241
+    },
+    {
+      "sourcePath": "13-short-fiction/jiuge-topic-selection.md",
+      "outputPath": "raw/13-short-fiction/jiuge-topic-selection.md",
+      "category": "short-fiction",
+      "kind": "methodology",
+      "title": "短篇选题：扒榜、老梗缝合、热点落地与受众定位",
+      "contentSha256": "c1b422a461799084eb6bb9a2d19e9b83648d55cf46b242af3bd0d30cd1fccf1b",
+      "sourceBytes": 7764
+    },
+    {
+      "sourcePath": "13-short-fiction/newmedia-formula.md",
+      "outputPath": "raw/13-short-fiction/newmedia-formula.md",
+      "category": "short-fiction",
+      "kind": "methodology",
+      "title": "新媒体爆款公式",
+      "contentSha256": "7a3b26909335f7210995d5f691ed7b23a7631cdb9f35deb41607dc6bfd3c609d",
+      "sourceBytes": 2981
+    },
+    {
+      "sourcePath": "13-short-fiction/short-hotspot-fast.md",
+      "outputPath": "raw/13-short-fiction/short-hotspot-fast.md",
+      "category": "short-fiction",
+      "kind": "methodology",
+      "title": "短篇热点快投法",
+      "contentSha256": "3932238800d532e6b6027209add21ac4debadde09360a8f79e2ad7b48402bf11",
+      "sourceBytes": 3482
+    },
+    {
+      "sourcePath": "13-short-fiction/zero-practice-short-long.md",
+      "outputPath": "raw/13-short-fiction/zero-practice-short-long.md",
+      "category": "short-fiction",
+      "kind": "methodology",
+      "title": "0基础实战：短篇与长篇衔接（冲突·大纲·人物·情节·价值观）",
+      "contentSha256": "cdb7a313e284820b7c797a4a5b7ab0c9ab2c38ae9c03a6b1ffb7976f71db29f0",
+      "sourceBytes": 9294
+    },
+    {
+      "sourcePath": "13-short-fiction/zhihu-short-structure.md",
+      "outputPath": "raw/13-short-fiction/zhihu-short-structure.md",
+      "category": "short-fiction",
+      "kind": "methodology",
+      "title": "知乎短篇结构与爆款开篇",
+      "contentSha256": "7d4670b10104b9d78d8264ebc6fdf0b9967b5aa92ea0507ea18a938342833484",
+      "sourceBytes": 16616
+    },
+    {
+      "sourcePath": "13-short-fiction/zhihu-story-topics.md",
+      "outputPath": "raw/13-short-fiction/zhihu-story-topics.md",
+      "category": "short-fiction",
+      "kind": "methodology",
+      "title": "知乎06故事专题精华（合并）",
+      "contentSha256": "cb4c188cbd284cfebda147cfde5186a6afcf94a1fe5865a83ef0c9dd741f2ea4",
+      "sourceBytes": 12122
+    },
+    {
+      "sourcePath": "14-story-craft/ctfdp-and-one-liner.md",
+      "outputPath": "raw/14-story-craft/ctfdp-and-one-liner.md",
+      "category": "story-craft",
+      "kind": "methodology",
+      "title": "CTFDP 与一句话故事",
+      "contentSha256": "1392efa87527405862d210bb16af905273386bd4a83dd824a041f92d02a52517",
+      "sourceBytes": 5397
+    },
+    {
+      "sourcePath": "14-story-craft/fifteen-elements-ab.md",
+      "outputPath": "raw/14-story-craft/fifteen-elements-ab.md",
+      "category": "story-craft",
+      "kind": "methodology",
+      "title": "十五元素与 AB 故事",
+      "contentSha256": "b65bdd92d14215edc6646e5f9aaefa097721ebb7014fb37ef34d7b838ea030c5",
+      "sourceBytes": 6291
+    },
+    {
+      "sourcePath": "14-story-craft/fifteen-steps.md",
+      "outputPath": "raw/14-story-craft/fifteen-steps.md",
+      "category": "story-craft",
+      "kind": "methodology",
+      "title": "十五步写出好故事",
+      "contentSha256": "a40f9bd9111aebaa9b0151b536efaa18815e1d929b9b9469796ae6138b12bde1",
+      "sourceBytes": 11313
+    },
+    {
+      "sourcePath": "14-story-craft/four-act-beats.md",
+      "outputPath": "raw/14-story-craft/four-act-beats.md",
+      "category": "story-craft",
+      "kind": "methodology",
+      "title": "四幕式节拍表",
+      "contentSha256": "8478b58f537051e887d33e242d9f5f8bc7345865317006a9dfb61a319a577327",
+      "sourceBytes": 5472
+    },
+    {
+      "sourcePath": "14-story-craft/genre-ten-types.md",
+      "outputPath": "raw/14-story-craft/genre-ten-types.md",
+      "category": "story-craft",
+      "kind": "methodology",
+      "title": "类型片十大共情点",
+      "contentSha256": "3f9b2ffad7d077063c1f782deaaf274c89bc69a6774565c8e46bb29405b0352e",
+      "sourceBytes": 7897
+    },
+    {
+      "sourcePath": "14-story-craft/harvard-trust-and-public-narrative.md",
+      "outputPath": "raw/14-story-craft/harvard-trust-and-public-narrative.md",
+      "category": "story-craft",
+      "kind": "methodology",
+      "title": "故事建立信任与公共叙事三段论",
+      "contentSha256": "adc86527064425330dc08f125867522f4bb8de582d66d56e0d9111bc464025ad",
+      "sourceBytes": 6062
+    },
+    {
+      "sourcePath": "14-story-craft/story-equals-accident.md",
+      "outputPath": "raw/14-story-craft/story-equals-accident.md",
+      "category": "story-craft",
+      "kind": "methodology",
+      "title": "故事=意外（北大博士）",
+      "contentSha256": "d39736ca1a5fe30b406b3593e7995fb9beb7f927821c4fa8f0f8e4c0aaf1ba11",
+      "sourceBytes": 5387
+    },
+    {
+      "sourcePath": "15-prompts/core-hook-prompt-usage.md",
+      "outputPath": "raw/15-prompts/core-hook-prompt-usage.md",
+      "category": "prompts",
+      "kind": "prompts",
+      "title": "核心梗批产 Prompt 用法",
+      "contentSha256": "172895c94084a3e02dd305c63738ff2bedaa5948cd3503df75b69d6fe451c669",
+      "sourceBytes": 651
+    },
+    {
+      "sourcePath": "15-prompts/de-ai-prompt-usage.md",
+      "outputPath": "raw/15-prompts/de-ai-prompt-usage.md",
+      "category": "prompts",
+      "kind": "prompts",
+      "title": "去 AI 味 Prompt 用法",
+      "contentSha256": "7014760c7c879f3ea033b9c3a46794cbbaceae4238ec8a505dee4ba8ed9d0905",
+      "sourceBytes": 580
+    },
+    {
+      "sourcePath": "15-prompts/manju-cool18-kartian.md",
+      "outputPath": "raw/15-prompts/manju-cool18-kartian.md",
+      "category": "prompts",
+      "kind": "prompts",
+      "title": "漫剧十八爽点 + 卡点三类（手册干货切片）",
+      "contentSha256": "d22aace49cbc5039c40c15823f1bd23faab417da31080683a55b965a6a145168",
+      "sourceBytes": 1080
+    },
+    {
+      "sourcePath": "15-prompts/manju-handbook-index.md",
+      "outputPath": "raw/15-prompts/manju-handbook-index.md",
+      "category": "prompts",
+      "kind": "prompts",
+      "title": "AI漫剧实操手册提示词索引",
+      "contentSha256": "7d9f045ee456b250a2c11ed14d21ff81bf77fea0e7e1c86224cbb2be9efd98e2",
+      "sourceBytes": 1981
+    },
+    {
+      "sourcePath": "15-prompts/manju-script-format-gates.md",
+      "outputPath": "raw/15-prompts/manju-script-format-gates.md",
+      "category": "prompts",
+      "kind": "prompts",
+      "title": "漫剧剧本规格闸（手册第三节切片）",
+      "contentSha256": "1ece337beb7e84fd075c2e5bfd0fde5e8892480a7c41453de5da01bab3cb722c",
+      "sourceBytes": 671
+    },
+    {
+      "sourcePath": "15-prompts/swap-prompt-usage.md",
+      "outputPath": "raw/15-prompts/swap-prompt-usage.md",
+      "category": "prompts",
+      "kind": "prompts",
+      "title": "换元法 Prompt 用法",
+      "contentSha256": "f04c283700c56be2b45e109d653494e0020997c8b02308958ff048083f20ef66",
+      "sourceBytes": 750
+    },
+    {
+      "sourcePath": "16-male-long/cool-face-slap.md",
+      "outputPath": "raw/16-male-long/cool-face-slap.md",
+      "category": "male-long",
+      "kind": "methodology",
+      "title": "男频爽点密度与装逼打脸",
+      "contentSha256": "5e5b022d308357dd60e0d96ed767ce725fa21e8c4d47ddc0f190f95f4347a5df",
+      "sourceBytes": 3090
+    },
+    {
+      "sourcePath": "16-male-long/gold-finger-male.md",
+      "outputPath": "raw/16-male-long/gold-finger-male.md",
+      "category": "male-long",
+      "kind": "methodology",
+      "title": "男频金手指：限制、成长与推剧情",
+      "contentSha256": "6811fa369d293f9810a05adaee81f264484da2eba0f23b4a7dc218107c25b766",
+      "sourceBytes": 2807
+    },
+    {
+      "sourcePath": "16-male-long/kuanggengmao-platform-rules.md",
+      "outputPath": "raw/16-male-long/kuanggengmao-platform-rules.md",
+      "category": "male-long",
+      "kind": "methodology",
+      "title": "狂更猫平台规则与「待核实」合规库",
+      "contentSha256": "5bc05b90869fbc8f67b5988206b1d377d2cd2e3b435e46457c810558a283646d",
+      "sourceBytes": 4340
+    },
+    {
+      "sourcePath": "16-male-long/male-risk-and-scan.md",
+      "outputPath": "raw/16-male-long/male-risk-and-scan.md",
+      "category": "male-long",
+      "kind": "methodology",
+      "title": "男频雷区与扫榜体检",
+      "contentSha256": "c7e14c1ec1426aeaeec1d3e88ee2d66f39da27281b21f73edbbab53870cb2fa5",
+      "sourceBytes": 3121
+    },
+    {
+      "sourcePath": "16-male-long/upgrade-loop.md",
+      "outputPath": "raw/16-male-long/upgrade-loop.md",
+      "category": "male-long",
+      "kind": "methodology",
+      "title": "男频升级流循环",
+      "contentSha256": "c2fd7aa72bc747bb25d4ea75d6e9825cff46433e8aa1d09f5c47927bb3fa4e5b",
+      "sourceBytes": 3707
+    }
+  ],
+  "skipped": {
+    "meta": [
+      "00-meta/coverage-checklist.md",
+      "00-meta/dedup-matrix.md",
+      "00-meta/sources-map.md"
+    ],
+    "readme": [
+      "15-prompts/README.md",
+      "README.md"
+    ]
+  }
+}

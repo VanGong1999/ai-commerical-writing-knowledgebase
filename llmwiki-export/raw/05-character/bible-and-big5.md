@@ -1,0 +1,37 @@
+---
+title: "人设清单与立体角色"
+project: "xiezuomanju"
+source_path: "05-character/bible-and-big5.md"
+category: "character"
+kind: "methodology"
+distilled: true
+source_layer: raw
+content_sha256: "d006af1247b8d7f422471be2ea2849af6e723eecea8725653b318eb4778f6dd8"
+source_bytes: 896
+usage: "internal-writing-assistance"
+source_boundary: "retain attribution; verify rights before redistribution"
+---
+# 人设清单与立体角色
+> 来源：九格 / 10.md；零基础 / 08–09；孵化营人物
+> 权威级别：P0
+> 关联 Skills：char.bible_big5, manju.bio
+> 关联 Agents：CharacterBibleAgent
+
+## 一句话
+人设要可喂正文：欲望恐惧秘密行为模式等；人物是动作的集合，冰山构思100%露10%。
+
+## 核心要点（条目）
+- 零基础：四种方法让人物独特；主角推动情节配角多被推动。
+- 孵化营四类：主角/对手/分身伙伴/爱情；其余工具人。
+- 对手镜像：主角反面。
+- 男频人设主战场二维事件；女频一维魅力可更强（零基础高阶）。
+
+## 可执行清单 / 模板
+- 输出人设卡：外在/内在价值观/状态/行动/弧光。
+
+## 反模式
+- 标签堆砌无人设行为。
+- 配角抢主角戏无功能。
+
+## 与其他课差异（若有）
+- 无显著冲突；按权威源原则引用。

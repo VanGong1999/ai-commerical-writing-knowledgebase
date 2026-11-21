@@ -1,0 +1,35 @@
+---
+title: "对话与角色声线"
+project: "xiezuomanju"
+source_path: "05-character/dialogue-voice.md"
+category: "character"
+kind: "methodology"
+distilled: true
+source_layer: raw
+content_sha256: "e4a4f98001756a26ceb27aea68aa6de7a69facc177ac60ca6b24004e4a086d48"
+source_bytes: 675
+usage: "internal-writing-assistance"
+source_boundary: "retain attribution; verify rights before redistribution"
+---
+# 对话与角色声线
+> 来源：零基础 / 21；查理台词公式；北大对白两法
+> 权威级别：P1
+> 关联 Skills：prose.dialogue_formula, prose.dialogue_voice
+> 关联 Agents：WritingOrchestrator
+
+## 一句话
+对话避免直答、压缩、用关系位与沉默；短剧态度+信息+潜台词；为角色建语料库。
+
+## 核心要点（条目）
+- 家长/成人/孩子关系位影响话风。
+- 对白即行动。
+
+## 可执行清单 / 模板
+- 每人一段对话抽样：能否盲测辨认说话人。
+
+## 反模式
+- 全员同一文艺腔。
+- 纯解说剧情对话。
+
+## 与其他课差异（若有）
+- 无显著冲突；按权威源原则引用。

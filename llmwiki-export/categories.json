@@ -1,0 +1,243 @@
+{
+  "ai-collab": {
+    "category": "ai-collab",
+    "files": [
+      "01-ai-collab/charlie-ai-efficiency.md",
+      "01-ai-collab/commercial-writing-workflow.md",
+      "01-ai-collab/core-hook-batch.md",
+      "01-ai-collab/de-ai-v38-method.md",
+      "01-ai-collab/dissect-params.md",
+      "01-ai-collab/prompt-rules-and-task-split.md",
+      "01-ai-collab/zhihu-ai-story.md"
+    ],
+    "kinds": [
+      "methodology"
+    ]
+  },
+  "character": {
+    "category": "character",
+    "files": [
+      "05-character/antagonist-and-cast.md",
+      "05-character/bible-and-big5.md",
+      "05-character/dialogue-voice.md",
+      "05-character/empathy-three.md",
+      "05-character/jiuge-character-depth.md",
+      "05-character/soul-check.md",
+      "05-character/xiezuo2-character-tricks.md"
+    ],
+    "kinds": [
+      "methodology"
+    ]
+  },
+  "duanju": {
+    "category": "duanju",
+    "files": [
+      "03-duanju/beat20.md",
+      "03-duanju/bridge8-and-witness.md",
+      "03-duanju/charlie-ops-index.md",
+      "03-duanju/five-cool-points.md",
+      "03-duanju/lapian-principles.md",
+      "03-duanju/product-mindset.md",
+      "03-duanju/resonance-and-shells.md",
+      "03-duanju/revise20-gender-deliver.md",
+      "03-duanju/scene-dialogue-hooks.md",
+      "03-duanju/topic-formula.md"
+    ],
+    "kinds": [
+      "methodology"
+    ]
+  },
+  "emotion-cool": {
+    "category": "emotion-cool",
+    "files": [
+      "07-emotion-cool/cool12-maslow.md",
+      "07-emotion-cool/emotion-density.md",
+      "07-emotion-cool/face-slap.md",
+      "07-emotion-cool/pressure-relief.md",
+      "07-emotion-cool/suspense-info-gap.md"
+    ],
+    "kinds": [
+      "methodology"
+    ]
+  },
+  "female-long": {
+    "category": "female-long",
+    "files": [
+      "12-female-long/chase-wife-template.md",
+      "12-female-long/female-emotion-romance.md",
+      "12-female-long/female-opening-five.md",
+      "12-female-long/female-pace.md",
+      "12-female-long/jiuge-female-track-monetize.md"
+    ],
+    "kinds": [
+      "methodology"
+    ]
+  },
+  "ip-adapt": {
+    "category": "ip-adapt",
+    "files": [
+      "11-ip-adapt/brand-story-modes.md",
+      "11-ip-adapt/jiuge-ip-adapt.md",
+      "11-ip-adapt/novel-to-manju.md",
+      "11-ip-adapt/screen-adapt-checklist.md",
+      "11-ip-adapt/xiezuo1-pilot-structure.md"
+    ],
+    "kinds": [
+      "methodology"
+    ]
+  },
+  "male-long": {
+    "category": "male-long",
+    "files": [
+      "16-male-long/cool-face-slap.md",
+      "16-male-long/gold-finger-male.md",
+      "16-male-long/kuanggengmao-platform-rules.md",
+      "16-male-long/male-risk-and-scan.md",
+      "16-male-long/upgrade-loop.md"
+    ],
+    "kinds": [
+      "methodology"
+    ]
+  },
+  "manju": {
+    "category": "manju",
+    "files": [
+      "02-manju/episode-outline-and-script.md",
+      "02-manju/jiuge-corehook-goldfinger.md",
+      "02-manju/jiuge-manju-advanced.md",
+      "02-manju/jiuge-manju-ai-workflow.md",
+      "02-manju/jiuge-market-platform.md",
+      "02-manju/manju-core-hook-format.md",
+      "02-manju/manju-full-pipeline.md",
+      "02-manju/manju-manual-qc.md",
+      "02-manju/manju-market-genre.md",
+      "02-manju/manju-submission-pack.md"
+    ],
+    "kinds": [
+      "methodology"
+    ]
+  },
+  "ops-monetize": {
+    "category": "ops-monetize",
+    "files": [
+      "10-ops-monetize/beida-monetize-paths.md",
+      "10-ops-monetize/fanqie-platform-rules.md",
+      "10-ops-monetize/hongniangzi-submit.md",
+      "10-ops-monetize/jiuge-newcomer-path.md",
+      "10-ops-monetize/mimeng-viral-pipeline.md",
+      "10-ops-monetize/shortvideo-nine-ways.md",
+      "10-ops-monetize/shortvideo-triangle.md",
+      "10-ops-monetize/zhihu-account-and-ops.md",
+      "10-ops-monetize/zhihu-commercial-templates.md"
+    ],
+    "kinds": [
+      "methodology"
+    ]
+  },
+  "prompts": {
+    "category": "prompts",
+    "files": [
+      "15-prompts/core-hook-prompt-usage.md",
+      "15-prompts/de-ai-prompt-usage.md",
+      "15-prompts/manju-cool18-kartian.md",
+      "15-prompts/manju-handbook-index.md",
+      "15-prompts/manju-script-format-gates.md",
+      "15-prompts/swap-prompt-usage.md"
+    ],
+    "kinds": [
+      "prompts"
+    ]
+  },
+  "quality": {
+    "category": "quality",
+    "files": [
+      "09-quality/de-ai-qc-checklist.md",
+      "09-quality/immersion-qc.md",
+      "09-quality/jiuge-redline-policy.md",
+      "09-quality/jiuge-visual-sense.md",
+      "09-quality/precise-prose.md",
+      "09-quality/revise20-and-logic.md",
+      "09-quality/show-dont-tell.md"
+    ],
+    "kinds": [
+      "methodology"
+    ]
+  },
+  "short-fiction": {
+    "category": "short-fiction",
+    "files": [
+      "13-short-fiction/commercial-storytelling.md",
+      "13-short-fiction/jiuge-topic-avoidance.md",
+      "13-short-fiction/jiuge-topic-selection.md",
+      "13-short-fiction/newmedia-formula.md",
+      "13-short-fiction/short-hotspot-fast.md",
+      "13-short-fiction/zero-practice-short-long.md",
+      "13-short-fiction/zhihu-short-structure.md",
+      "13-short-fiction/zhihu-story-topics.md"
+    ],
+    "kinds": [
+      "methodology"
+    ]
+  },
+  "story-craft": {
+    "category": "story-craft",
+    "files": [
+      "14-story-craft/ctfdp-and-one-liner.md",
+      "14-story-craft/fifteen-elements-ab.md",
+      "14-story-craft/fifteen-steps.md",
+      "14-story-craft/four-act-beats.md",
+      "14-story-craft/genre-ten-types.md",
+      "14-story-craft/harvard-trust-and-public-narrative.md",
+      "14-story-craft/story-equals-accident.md"
+    ],
+    "kinds": [
+      "methodology"
+    ]
+  },
+  "structure": {
+    "category": "structure",
+    "files": [
+      "06-structure/conflict-expectation.md",
+      "06-structure/fifteen-vs-beat20.md",
+      "06-structure/foreshadow-setup-climax.md",
+      "06-structure/midpoint-dark-night.md",
+      "06-structure/opening-hooks-catalog.md",
+      "06-structure/seven-step-unit.md",
+      "06-structure/transitions-and-unit-arc.md"
+    ],
+    "kinds": [
+      "methodology"
+    ]
+  },
+  "swap-imitate": {
+    "category": "swap-imitate",
+    "files": [
+      "08-swap-imitate/female-four-swap-three.md",
+      "08-swap-imitate/once-twice-swap.md",
+      "08-swap-imitate/six-story-sources.md",
+      "08-swap-imitate/wash-vs-imitate-boundary.md"
+    ],
+    "kinds": [
+      "methodology"
+    ]
+  },
+  "webnovel": {
+    "category": "webnovel",
+    "files": [
+      "04-webnovel/emotion-line-and-perspective.md",
+      "04-webnovel/gold-finger-and-loop.md",
+      "04-webnovel/hotsales-dissect-method.md",
+      "04-webnovel/innovation-and-dissect.md",
+      "04-webnovel/jiuge-inspiration-to-story.md",
+      "04-webnovel/opening-attract.md",
+      "04-webnovel/outline-hierarchy.md",
+      "04-webnovel/scan-rank-and-platform.md",
+      "04-webnovel/six-standards-and-mindset.md",
+      "04-webnovel/title-blurb-stuck.md",
+      "04-webnovel/xiezuo2-pearl-and-twist.md"
+    ],
+    "kinds": [
+      "methodology"
+    ]
+  }
+}

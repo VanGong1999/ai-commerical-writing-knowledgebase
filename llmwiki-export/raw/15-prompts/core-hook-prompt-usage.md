@@ -1,0 +1,34 @@
+---
+title: "核心梗批产 Prompt 用法"
+project: "xiezuomanju"
+source_path: "15-prompts/core-hook-prompt-usage.md"
+category: "prompts"
+kind: "prompts"
+distilled: true
+source_layer: raw
+content_sha256: "172895c94084a3e02dd305c63738ff2bedaa5948cd3503df75b69d6fe451c669"
+source_bytes: 651
+usage: "internal-writing-assistance"
+source_boundary: "retain attribution; verify rights before redistribution"
+---
+# 核心梗批产 Prompt 用法
+> 来源：九格 / 流程文 + 手册
+> 权威级别：P0
+> 关联 Skills：manju.core_hook
+> 关联 Agents：CoreHookAgent, HookComboAgent
+
+## 一句话
+锁定输出字段与题材约束，可变数量与风格；必须接 Critic。
+
+## 核心要点（条目）
+- 格式示例见流程文「十个必火核心梗」段。
+- 约束：强冲突强情绪强画面、爆点前置。
+
+## 可执行清单 / 模板
+- 生成 N 条 → 自动校验字段 → Critic 排序 → 人选。
+
+## 反模式
+- 无字段约束的自由发挥列表。
+
+## 与其他课差异（若有）
+- 无显著冲突；按权威源原则引用。

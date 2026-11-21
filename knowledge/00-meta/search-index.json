@@ -1,0 +1,2626 @@
+{
+  "generatedAt": "2026-11-15",
+  "count": 113,
+  "articles": [
+    {
+      "id": "charlie-ai-efficiency",
+      "path": "01-ai-collab/charlie-ai-efficiency.md",
+      "title": "查理 AI 效率：四法·五法·从 0 到 1 交换流",
+      "category": "01-ai-collab",
+      "tags": [
+        "ai-collab",
+        "scene",
+        "prose",
+        "查理的短剧编剧课",
+        "查理",
+        "AI",
+        "效率",
+        "四法"
+      ],
+      "authority": "P1",
+      "relatedSkills": [
+        "scene.solution_fanout",
+        "scene.expand_ladder",
+        "scene.visualize",
+        "prose.dialogue_voice"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator"
+      ],
+      "summary": "把 AI 当「高智商宝宝」沟通：四法（指令四段式/对标/交互/元素）+ 五法（章节创造/扩写/解决方案/视觉化/台词个性化）解决场级卡点；人做选题与最终判断，AI 做生成与枚举；从 0 到 1 用「前置结果逐步变成下一条指令」的交换流…"
+    },
+    {
+      "id": "commercial-writing-workflow",
+      "path": "01-ai-collab/commercial-writing-workflow.md",
+      "title": "商业文章 AI 创作工作流",
+      "category": "01-ai-collab",
+      "tags": [
+        "ai-collab",
+        "orchestrator",
+        "writing",
+        "manju",
+        "商业文章",
+        "AI",
+        "创作工作流"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "orchestrator",
+        "writing",
+        "manju.core_hook"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator"
+      ],
+      "summary": "商业可控写作必须分层：灵感→总纲→章纲→细纲→初稿→修改，禁止跳层一步成文。"
+    },
+    {
+      "id": "core-hook-batch",
+      "path": "01-ai-collab/core-hook-batch.md",
+      "title": "核心梗批量生成与筛选",
+      "category": "01-ai-collab",
+      "tags": [
+        "ai-collab",
+        "manju",
+        "topic",
+        "核心梗批量生",
+        "成与筛选"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "manju.core_hook",
+        "manju.core-hook-critic",
+        "topic.core_hook_batch"
+      ],
+      "relatedAgents": [
+        "CoreHookAgent",
+        "CoreHookCriticAgent",
+        "HookComboAgent"
+      ],
+      "summary": "核心梗是故事最小可售卖创意单元（矛盾驱动的卖点核）；必须批量生成再按代入感/爽感/差异化筛选；它保持「情绪过程」，换细节可跨题材。"
+    },
+    {
+      "id": "de-ai-v38-method",
+      "path": "01-ai-collab/de-ai-v38-method.md",
+      "title": "去 AI 味 V3.8 方法总览",
+      "category": "01-ai-collab",
+      "tags": [
+        "ai-collab",
+        "qc",
+        "de-ai-v3",
+        "AI",
+        "V3",
+        "方法总览"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "qc.de_ai",
+        "de-ai-v3.8"
+      ],
+      "relatedAgents": [
+        "WashDraftAgent",
+        "WritingOrchestrator"
+      ],
+      "summary": "去 AI 味是投稿生死线：保留主题/走向/风格，用短句、动作、感官替换套路比喻与程式化心理。"
+    },
+    {
+      "id": "dissect-params",
+      "path": "01-ai-collab/dissect-params.md",
+      "title": "拆书参数（参数化对标）",
+      "category": "01-ai-collab",
+      "tags": [
+        "ai-collab",
+        "dissect",
+        "拆书参数",
+        "参数化对标"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "dissect.*"
+      ],
+      "relatedAgents": [
+        "DissectAgent",
+        "GuessBookAgent",
+        "TropeMineAgent"
+      ],
+      "summary": "拆书目的不是抄剧情，而是提取可迁移的赚钱机制与结构参数；**拆书积累是创作第一关键点，方法才是第二位的**。"
+    },
+    {
+      "id": "prompt-rules-and-task-split",
+      "path": "01-ai-collab/prompt-rules-and-task-split.md",
+      "title": "提示词本质与任务拆解",
+      "category": "01-ai-collab",
+      "tags": [
+        "ai-collab",
+        "prompt",
+        "prompt-4part",
+        "2.md",
+        "提示词本质与",
+        "任务拆解"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "prompt.safe_edit",
+        "prompt-4part"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator",
+        "CoreHookAgent"
+      ],
+      "summary": "AI 可控创作的底层是「规则+指令」+ 把长任务拆到单次 2000～3000 字可交付单元；提示词能力本质是你对自己行业知识的总结。"
+    },
+    {
+      "id": "zhihu-ai-story",
+      "path": "01-ai-collab/zhihu-ai-story.md",
+      "title": "知乎营 AI 创作专题要点",
+      "category": "01-ai-collab",
+      "tags": [
+        "ai-collab",
+        "prompt",
+        "知乎-短篇创作营",
+        "知乎营",
+        "AI",
+        "创作专题要点"
+      ],
+      "authority": "P2",
+      "relatedSkills": [
+        "prompt.*"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator"
+      ],
+      "summary": "AI 有多强取决于「你有多会用、多会引导」：核心能力是**结构化提示词（Markdown＋思维链）**与**人机共创（AI 搭骨架、人补血肉、人去味）**；故事文有 SOP 六环节，科普有「真实＋震撼＋可视化」，通用职场有「提示词四要…"
+    },
+    {
+      "id": "episode-outline-and-script",
+      "path": "02-manju/episode-outline-and-script.md",
+      "title": "分集大纲与分镜剧本规范",
+      "category": "02-manju",
+      "tags": [
+        "manju",
+        "九格",
+        "分集大纲与分",
+        "镜剧本规范"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "manju.episode-outline",
+        "manju.storyboard"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator"
+      ],
+      "summary": "大纲用表再转文字核对；正文必须「画面+台词」分镜式，禁止小说腔。"
+    },
+    {
+      "id": "jiuge-corehook-goldfinger",
+      "path": "02-manju/jiuge-corehook-goldfinger.md",
+      "title": "漫剧核心方法论：故事梗、金手指、世界观与题材判断",
+      "category": "02-manju",
+      "tags": [
+        "manju",
+        "九格",
+        "漫剧核心方法",
+        "故事梗",
+        "金手指",
+        "世界观与题材",
+        "判断"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "manju.core_hook",
+        "manju.golden_finger",
+        "manju.worldview"
+      ],
+      "relatedAgents": [
+        "CoreHookAgent",
+        "GoldenFingerAgent",
+        "WorldviewAgent"
+      ],
+      "summary": "漫剧四大核心要素 = 故事梗、金手指、世界观、主角团；提炼内核是编剧核心能力；金手指要「同级无敌、跨阶困难」。"
+    },
+    {
+      "id": "jiuge-manju-advanced",
+      "path": "02-manju/jiuge-manju-advanced.md",
+      "title": "漫剧进阶：核心梗四步法、四幕结构与题材红线",
+      "category": "02-manju",
+      "tags": [
+        "manju",
+        "topic",
+        "九格",
+        "漫剧进阶",
+        "核心梗四步法",
+        "四幕结构与题",
+        "材红线"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "manju.core_hook",
+        "manju.structure",
+        "topic.redline"
+      ],
+      "relatedAgents": [
+        "CoreHookAgent",
+        "ManjuStructureAgent",
+        "PolicyCheckAgent"
+      ],
+      "summary": "创新不是凭空创造，是**老核心梗重新组合**；用「世界观→身份反差→限制型金手指→核心动作」四步法造梗，用 100 集四幕模板防跑偏，选题前先过题材红线。"
+    },
+    {
+      "id": "jiuge-manju-ai-workflow",
+      "path": "02-manju/jiuge-manju-ai-workflow.md",
+      "title": "漫剧 AI 实操工作流与新人成长路径",
+      "category": "02-manju",
+      "tags": [
+        "manju",
+        "char",
+        "ai",
+        "九格",
+        "漫剧",
+        "AI",
+        "实操工作流与",
+        "新人成长路径"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "manju.workflow",
+        "char.dissect",
+        "ai.tool"
+      ],
+      "relatedAgents": [
+        "ManjuWorkflowAgent",
+        "DissectAgent"
+      ],
+      "summary": "漫剧 AI 工作流：调教主力 AI → 删减提示词 → 生成 10 个梗筛选 → 人物小传 → 10 集大纲（第一步就校正）→ 3 集正文 → 精修 → 滚动生成；新人走「看教程→拆剧→仿写→原创」，专业能力是 AI 使用上限。"
+    },
+    {
+      "id": "jiuge-market-platform",
+      "path": "02-manju/jiuge-market-platform.md",
+      "title": "漫剧市场、平台生态与投稿规范",
+      "category": "02-manju",
+      "tags": [
+        "manju",
+        "topic",
+        "ops",
+        "九格",
+        "漫剧市场",
+        "平台生态与投",
+        "稿规范"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "topic.market_brief",
+        "ops.submit"
+      ],
+      "relatedAgents": [
+        "MarketBriefAgent",
+        "SubmitAgent"
+      ],
+      "summary": "漫剧处在「技术已突破、缺好内容」的爆发期；新人入手品类里漫剧是过稿难度与单价的最优平衡点（可作短剧敲门砖）；核心梗占投稿重要性 50%，编辑第一眼只看梗。"
+    },
+    {
+      "id": "manju-core-hook-format",
+      "path": "02-manju/manju-core-hook-format.md",
+      "title": "漫剧核心梗输出格式",
+      "category": "02-manju",
+      "tags": [
+        "manju",
+        "九格",
+        "漫剧核心梗输",
+        "出格式"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "manju.core_hook"
+      ],
+      "relatedAgents": [
+        "CoreHookAgent",
+        "CoreHookCriticAgent"
+      ],
+      "summary": "核心梗必须带标题钩、核心叙述、标签、动机、危机、开篇结构，才能进入大纲阶段。"
+    },
+    {
+      "id": "manju-full-pipeline",
+      "path": "02-manju/manju-full-pipeline.md",
+      "title": "AI 漫剧全流程 SOP",
+      "category": "02-manju",
+      "tags": [
+        "manju",
+        "orchestrator",
+        "writing",
+        "qc",
+        "九格",
+        "AI",
+        "漫剧全流程",
+        "SOP"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "orchestrator",
+        "writing",
+        "manju.episode-outline",
+        "manju.storyboard",
+        "qc.de_ai"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator",
+        "CoreHookAgent"
+      ],
+      "summary": "漫剧工业流：定核心梗→前十集大纲→分镜剧本→去AI味→人工六检→扩纲循环至完稿。"
+    },
+    {
+      "id": "manju-manual-qc",
+      "path": "02-manju/manju-manual-qc.md",
+      "title": "漫剧人工校稿六项",
+      "category": "02-manju",
+      "tags": [
+        "manju",
+        "qc",
+        "gates",
+        "logic-ack",
+        "九格",
+        "漫剧人工校稿",
+        "六项"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "qc.de_ai",
+        "gates",
+        "logic-ack"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator"
+      ],
+      "summary": "AI 无法可靠识别情节漏洞；完稿前必须人工过逻辑、表述、镜头、语言、钩子、时长。"
+    },
+    {
+      "id": "manju-market-genre",
+      "path": "02-manju/manju-market-genre.md",
+      "title": "漫剧题材与市场取向",
+      "category": "02-manju",
+      "tags": [
+        "manju",
+        "topic",
+        "九格",
+        "漫剧题材与市",
+        "场取向"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "topic.market_brief"
+      ],
+      "relatedAgents": [
+        "MarketBriefAgent"
+      ],
+      "summary": "选题跟消费榜与渠道：国内曾侧重追妻等女频强情绪；男频动态漫重脑洞打脸；以当期数据为准。"
+    },
+    {
+      "id": "manju-submission-pack",
+      "path": "02-manju/manju-submission-pack.md",
+      "title": "漫剧交付与过稿注意",
+      "category": "02-manju",
+      "tags": [
+        "manju",
+        "deliver",
+        "九格",
+        "流程文；手册",
+        "漫剧交付与过",
+        "稿注意"
+      ],
+      "authority": "P1",
+      "relatedSkills": [
+        "deliver.submission_pack"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator"
+      ],
+      "summary": "过稿看完整度：核心卖点清晰、去AI味达标、规格符合渠道、物料齐全。"
+    },
+    {
+      "id": "beat20",
+      "path": "03-duanju/beat20.md",
+      "title": "二十节拍大纲",
+      "category": "03-duanju",
+      "tags": [
+        "duanju",
+        "struct",
+        "查理短剧课",
+        "3.2；全课程核心精华",
+        "二十节拍大纲"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "struct.beat20"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator"
+      ],
+      "summary": "把约 150–200 分钟的短剧按「起承转合 = 建立→放大→转折→兑现预期」拆成 20 个节拍；强度可调，节拍与节奏不可丢；大转折（腰）落在物理时长正中。"
+    },
+    {
+      "id": "bridge8-and-witness",
+      "path": "03-duanju/bridge8-and-witness.md",
+      "title": "八桥段与两性见证放大器",
+      "category": "03-duanju",
+      "tags": [
+        "duanju",
+        "struct",
+        "查理短剧课",
+        "3.6",
+        "八桥段与两性",
+        "见证放大器"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "struct.bridge8",
+        "struct.witness_amp"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator"
+      ],
+      "summary": "把五大爽点落成可复用场级桥段：打脸、碾压、运气、地位、集体、因果、极限、哲思；所有模型在「两性见证」加持下威力倍增。"
+    },
+    {
+      "id": "charlie-ops-index",
+      "path": "03-duanju/charlie-ops-index.md",
+      "title": "查理短剧 Ops 索引（Stage ↔ 面板 ↔ Agent）",
+      "category": "03-duanju",
+      "tags": [
+        "duanju",
+        "查理短剧",
+        "Ops",
+        "索引",
+        "Stage",
+        "面板",
+        "Agent"
+      ],
+      "authority": "查理课 notes/精华；领域 `duanju-charlie.ts`；UI `DuanjuCharliePanels`",
+      "relatedSkills": [],
+      "relatedAgents": [],
+      "summary": "查理短剧 Ops 索引（Stage ↔ 面板 ↔ Agent）"
+    },
+    {
+      "id": "five-cool-points",
+      "path": "03-duanju/five-cool-points.md",
+      "title": "短剧五大爽点",
+      "category": "03-duanju",
+      "tags": [
+        "duanju",
+        "topic",
+        "查理短剧课",
+        "2.2",
+        "短剧五大爽点"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "topic.cool_point_5"
+      ],
+      "relatedAgents": [
+        "CoreHookAgent",
+        "CoreHookCriticAgent"
+      ],
+      "summary": "人类稳定不变的爽点分三层，短剧只吃透前五：两性、征服、优势、归属、秩序；逻辑链是繁殖→征服→（打赢）优势/（打不赢）归属→秩序；爽点可叠加，男女频投放路径不同。"
+    },
+    {
+      "id": "lapian-principles",
+      "path": "03-duanju/lapian-principles.md",
+      "title": "短剧拉片原则（个案方法论）",
+      "category": "03-duanju",
+      "tags": [
+        "duanju",
+        "struct",
+        "cool",
+        "qc",
+        "查理短剧课",
+        "短剧拉片原则",
+        "个案方法论"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "struct.beat20",
+        "cool.*",
+        "qc.gender_path"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator",
+        "Beat20"
+      ],
+      "summary": "拉片学的是「可升级流水线 + 六维抓手」，不是复述某部剧的集数剧情；男女频各有专属抓手——男频满级号「复仇期待 + 造物主赐福双轨 + 量化升级」，女频闪婚霸总「女主画像 × 善良因果 × 观众开天眼信息差」。"
+    },
+    {
+      "id": "product-mindset",
+      "path": "03-duanju/product-mindset.md",
+      "title": "短剧产品思维：解压·代入·粘度",
+      "category": "03-duanju",
+      "tags": [
+        "duanju",
+        "decompress-first",
+        "three-principles",
+        "biz",
+        "查理的短剧编剧课",
+        "短剧产品思维",
+        "解压",
+        "代入"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "decompress-first",
+        "three-principles",
+        "biz.product_align"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator"
+      ],
+      "summary": "短剧不是缩短的长剧，而是服务「投放 + 充值」的互联网产品；创作前先对齐需求排序（解压 > 审美 > 故事），再以「解压 · 强代入 · 强粘度」三原则统领一切写法。"
+    },
+    {
+      "id": "resonance-and-shells",
+      "path": "03-duanju/resonance-and-shells.md",
+      "title": "共鸣 YY 与故事壳",
+      "category": "03-duanju",
+      "tags": [
+        "duanju",
+        "topic",
+        "查理短剧课",
+        "2.3、2.4",
+        "共鸣",
+        "YY",
+        "与故事壳"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "topic.resonance_yy",
+        "topic.story_shell"
+      ],
+      "relatedAgents": [
+        "CoreHookAgent"
+      ],
+      "summary": "共鸣 = 把五大爽点落实到日常生活困境里的「YY」（爽点 × 困境）；故事壳四选一（人物/目标/困境/奇遇），谜题导向默认否——它会把观众从感性爽感拉回理性思考，不利充值。"
+    },
+    {
+      "id": "revise20-gender-deliver",
+      "path": "03-duanju/revise20-gender-deliver.md",
+      "title": "修改20·男女频路径·交付八规范",
+      "category": "03-duanju",
+      "tags": [
+        "duanju",
+        "qc",
+        "deliver",
+        "redline-cn",
+        "查理短剧课",
+        "修改",
+        "男女频路径",
+        "交付八规范"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "qc.revise20",
+        "qc.gender_path",
+        "deliver.spec8",
+        "qc.redline",
+        "redline-cn"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator"
+      ],
+      "summary": "好剧本是改出来的：感性一气呵成 → 搁置 → 用 20 条法则理性体检；男频自己动手、女频借势获爱；交付按八类规范 + 审查红线打包投稿。"
+    },
+    {
+      "id": "scene-dialogue-hooks",
+      "path": "03-duanju/scene-dialogue-hooks.md",
+      "title": "场三件事·台词·悬念一加一",
+      "category": "03-duanju",
+      "tags": [
+        "duanju",
+        "scene",
+        "prose",
+        "hook",
+        "查理短剧课",
+        "3.3–3.5、6.3",
+        "场三件事",
+        "台词"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "scene.triple",
+        "prose.dialogue_formula",
+        "hook.suspense_design",
+        "scene.triangle",
+        "scene.opening8"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator"
+      ],
+      "summary": "每场 = 交代信息 + 推进剧情 + 带来变化（缺一不可）；台词 = 态度 + 信息 + 潜台词；充值靠 To C 预期管理（悬念优先 + 「一加一」兑现）；防流水账用三角设计（目标→反义→逻辑回落→抵达目标）。"
+    },
+    {
+      "id": "topic-formula",
+      "path": "03-duanju/topic-formula.md",
+      "title": "短剧选题三公式",
+      "category": "03-duanju",
+      "tags": [
+        "duanju",
+        "topic",
+        "查理短剧课",
+        "短剧选题三公"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "topic.formula",
+        "topic.want_how",
+        "topic.account_tier"
+      ],
+      "relatedAgents": [
+        "CoreHookAgent"
+      ],
+      "summary": "选题 = 爽点 + 共鸣(YY) + 故事壳（基础版）；爽剧极简 = 想怎样 + 通过啥（6.8）；投稿按号级选策略：满级号设「有创意的明确目标」，小号优先「开挂三型」。"
+    },
+    {
+      "id": "emotion-line-and-perspective",
+      "path": "04-webnovel/emotion-line-and-perspective.md",
+      "title": "感情线与视角",
+      "category": "04-webnovel",
+      "tags": [
+        "webnovel",
+        "char",
+        "struct",
+        "小说零基础写作班",
+        "感情线与视角"
+      ],
+      "authority": "P1",
+      "relatedSkills": [
+        "char.*",
+        "struct.female_pace"
+      ],
+      "relatedAgents": [
+        "CharacterBibleAgent"
+      ],
+      "summary": "感情线难在 CP 互动与拉扯，不在框架本身；网文主流用第三人称内视角固定主角，视角混乱是劝退大户。"
+    },
+    {
+      "id": "gold-finger-and-loop",
+      "path": "04-webnovel/gold-finger-and-loop.md",
+      "title": "金手指与循环写法",
+      "category": "04-webnovel",
+      "tags": [
+        "webnovel",
+        "struct",
+        "小说零基础写作班",
+        "39；狂更猫",
+        "金手指与循环",
+        "写法"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "struct.*"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator"
+      ],
+      "summary": "金手指＝把不合理「合理化」的造梦装置：少而可延伸、弱开有成长；循环＝用固定金手指反复解决问题的思路（不是「报复一个人一个循环」）。"
+    },
+    {
+      "id": "hotsales-dissect-method",
+      "path": "04-webnovel/hotsales-dissect-method.md",
+      "title": "零基础高阶：热销拆解方法论",
+      "category": "04-webnovel",
+      "tags": [
+        "webnovel",
+        "dissect",
+        "hook",
+        "char",
+        "struct",
+        "小说零基础写作班",
+        "零基础高阶",
+        "热销拆解方法"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "dissect.*",
+        "hook.*",
+        "char.*",
+        "struct.*"
+      ],
+      "relatedAgents": [
+        "DissectAgent",
+        "TropeMineAgent",
+        "CoreHookAgent"
+      ],
+      "summary": "热销拆解只学可迁移机制：构思「想法→立意→预设」、人设「三维空间」、开篇「切入三路」；拆完要能说出「它靠什么赚钱、凭什么被点进来」，禁止扒大纲换皮。"
+    },
+    {
+      "id": "innovation-and-dissect",
+      "path": "04-webnovel/innovation-and-dissect.md",
+      "title": "微创新、反套路与拆爆款",
+      "category": "04-webnovel",
+      "tags": [
+        "webnovel",
+        "dissect",
+        "topic",
+        "小说零基础写作班",
+        "微创新",
+        "反套路与拆爆"
+      ],
+      "authority": "P1",
+      "relatedSkills": [
+        "dissect.*",
+        "topic.*"
+      ],
+      "relatedAgents": [
+        "DissectAgent",
+        "TropeMineAgent"
+      ],
+      "summary": "新手主做微创新/陌生化，勿神话开创类型；拆书找「赚钱机制」落表，禁止只贴「有悬念」标签或扒大纲换皮。"
+    },
+    {
+      "id": "jiuge-inspiration-to-story",
+      "path": "04-webnovel/jiuge-inspiration-to-story.md",
+      "title": "从灵感到故事：四层级模型与扩展路径",
+      "category": "04-webnovel",
+      "tags": [
+        "webnovel",
+        "struct",
+        "char",
+        "九格",
+        "8.md（网文创作课程）",
+        "从灵感到故事",
+        "四层级模型与",
+        "扩展路径"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "struct.inspiration",
+        "char.seven_step",
+        "struct.platform"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator",
+        "CharacterBibleAgent"
+      ],
+      "summary": "下笔前先判断灵感属于哪一层级（故事线→核心事件→情节→事件），再按对应路径扩展；口诀「上补头尾定主线，下猜因果填细节，后面人设驱动搞冲突，爽点元素往里加」。"
+    },
+    {
+      "id": "opening-attract",
+      "path": "04-webnovel/opening-attract.md",
+      "title": "吸引力开篇：冲突·悬念·设定",
+      "category": "04-webnovel",
+      "tags": [
+        "webnovel",
+        "hook",
+        "struct",
+        "小说零基础写作班",
+        "25–29、48；狂更猫",
+        "吸引力开篇",
+        "冲突",
+        "悬念"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "hook.*",
+        "struct.*"
+      ],
+      "relatedAgents": [
+        "CoreHookAgent"
+      ],
+      "summary": "开篇唯一标准是「足够有吸引力」，不是「必须三章小高潮」；三条路——冲突（一个乱字+两个关口）、悬念（四类贯穿全书）、设定（背景或人物切入口）——可叠加使用。"
+    },
+    {
+      "id": "outline-hierarchy",
+      "path": "04-webnovel/outline-hierarchy.md",
+      "title": "草纲到细纲的层级",
+      "category": "04-webnovel",
+      "tags": [
+        "webnovel",
+        "struct",
+        "小说零基础写作班",
+        "10–14、17",
+        "草纲到细纲的",
+        "层级"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "struct.*"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator"
+      ],
+      "summary": "草纲→总纲→大纲→细纲→正文，五级把「核心梗」长成「可写结构」；总纲想事、大纲讲结构、细纲保日更，思考路径比写本身更重要。"
+    },
+    {
+      "id": "scan-rank-and-platform",
+      "path": "04-webnovel/scan-rank-and-platform.md",
+      "title": "刷榜、平台气质与选题顺序",
+      "category": "04-webnovel",
+      "tags": [
+        "webnovel",
+        "topic",
+        "dissect",
+        "小说零基础写作班",
+        "04、06；狂更猫",
+        "刷榜",
+        "平台气质与选",
+        "题顺序"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "topic.market_brief",
+        "dissect.*"
+      ],
+      "relatedAgents": [
+        "MarketBriefAgent",
+        "DissectAgent"
+      ],
+      "summary": "只刷自然榜并表格记录（空手刷＝白刷）；先认网站气质再投稿；正确选题顺序是「扫榜 → 书名 → 简介 → 开头 → 写到首秀」，禁止先写开头再补书名。"
+    },
+    {
+      "id": "six-standards-and-mindset",
+      "path": "04-webnovel/six-standards-and-mindset.md",
+      "title": "网文赚钱六标准与认知",
+      "category": "04-webnovel",
+      "tags": [
+        "webnovel",
+        "topic",
+        "小说零基础写作班",
+        "01–02；狂更猫",
+        "网文赚钱六标",
+        "准与认知"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "topic.market_brief"
+      ],
+      "relatedAgents": [
+        "MarketBriefAgent"
+      ],
+      "summary": "能赚钱的文有六条可量化标准：冲突多、代入强、节奏快、有爽点、人设讨喜、设定新颖；目标是撰稿费而非签约本身，认知上先「写给十几年前的自己」再谈写法。"
+    },
+    {
+      "id": "title-blurb-stuck",
+      "path": "04-webnovel/title-blurb-stuck.md",
+      "title": "书名简介与破卡文",
+      "category": "04-webnovel",
+      "tags": [
+        "webnovel",
+        "hook",
+        "小说零基础写作班",
+        "30–31、37；狂更猫",
+        "书名简介与破",
+        "卡文"
+      ],
+      "authority": "P1",
+      "relatedSkills": [
+        "hook.*"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator"
+      ],
+      "summary": "书名直白有趣（身份+目标+反差 / 题材+金手指+热词）；简介＝环境+人物+冲突带悬念（或五段卖点）；卡文不空想，执行「下一步」而非再想一个剧情。"
+    },
+    {
+      "id": "xiezuo2-pearl-and-twist",
+      "path": "04-webnovel/xiezuo2-pearl-and-twist.md",
+      "title": "珍珠项链结构与反转层次（写作课程2）",
+      "category": "04-webnovel",
+      "tags": [
+        "webnovel",
+        "struct",
+        "珍珠项链结构",
+        "与反转层次",
+        "写作课程"
+      ],
+      "authority": "P1",
+      "relatedSkills": [
+        "struct.outline",
+        "struct.twist"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator"
+      ],
+      "summary": "写小说先让人看懂、再让人看爽、最后让人记住（立意）；把独立小事件像珍珠一样串在单一主线上（阴珠压抑/阳珠爽交错）；反转分三层且先定目标再填剧情。"
+    },
+    {
+      "id": "antagonist-and-cast",
+      "path": "05-character/antagonist-and-cast.md",
+      "title": "对手、配角与群像控制",
+      "category": "05-character",
+      "tags": [
+        "character",
+        "char",
+        "十五步；孵化营；修改20",
+        "对手",
+        "配角与群像控"
+      ],
+      "authority": "P1",
+      "relatedSkills": [
+        "char.*"
+      ],
+      "relatedAgents": [
+        "CharacterBibleAgent"
+      ],
+      "summary": "对手实力相当有步骤有道理；配角有外形行为语言记忆点；身份可转换但需伏笔。"
+    },
+    {
+      "id": "bible-and-big5",
+      "path": "05-character/bible-and-big5.md",
+      "title": "人设清单与立体角色",
+      "category": "05-character",
+      "tags": [
+        "character",
+        "char",
+        "manju",
+        "九格",
+        "10.md；零基础",
+        "人设清单与立",
+        "体角色"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "char.bible_big5",
+        "manju.bio"
+      ],
+      "relatedAgents": [
+        "CharacterBibleAgent"
+      ],
+      "summary": "人设要可喂正文：欲望恐惧秘密行为模式等；人物是动作的集合，冰山构思100%露10%。"
+    },
+    {
+      "id": "dialogue-voice",
+      "path": "05-character/dialogue-voice.md",
+      "title": "对话与角色声线",
+      "category": "05-character",
+      "tags": [
+        "character",
+        "prose",
+        "零基础",
+        "对话与角色声"
+      ],
+      "authority": "P1",
+      "relatedSkills": [
+        "prose.dialogue_formula",
+        "prose.dialogue_voice"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator"
+      ],
+      "summary": "对话避免直答、压缩、用关系位与沉默；短剧态度+信息+潜台词；为角色建语料库。"
+    },
+    {
+      "id": "empathy-three",
+      "path": "05-character/empathy-three.md",
+      "title": "共情三招：可怜可信可爱",
+      "category": "05-character",
+      "tags": [
+        "character",
+        "char",
+        "3.1",
+        "共情三招",
+        "可怜可信可爱"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "char.empathy_3",
+        "char.mini_bio"
+      ],
+      "relatedAgents": [
+        "CharacterBibleAgent"
+      ],
+      "summary": "让观众爱上角色，基础盘是「**可怜·可信·可爱**」三张牌；再往上是**境遇共情**与**逻辑/选择共情**——底层原理都是「观众审的其实是自己」。"
+    },
+    {
+      "id": "jiuge-character-depth",
+      "path": "05-character/jiuge-character-depth.md",
+      "title": "人设深度：大五人格、欲望恐惧秘密与差异化人设",
+      "category": "05-character",
+      "tags": [
+        "character",
+        "char",
+        "九格",
+        "人设深度",
+        "大五人格",
+        "欲望恐惧秘密",
+        "与差异化人设"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "char.bible_big5",
+        "char.secret",
+        "char.combo"
+      ],
+      "relatedAgents": [
+        "CharacterBibleAgent",
+        "CharacterDepthAgent"
+      ],
+      "summary": "人设核心公式：**立得住 + 有魅力 + 能驱动剧情**。先定灵魂底色（大五人格），再挖欲望/恐惧/终极秘密，用人设驱动剧情，最后用清单填充。"
+    },
+    {
+      "id": "soul-check",
+      "path": "05-character/soul-check.md",
+      "title": "灵魂拷问：情节是否符合人设",
+      "category": "05-character",
+      "tags": [
+        "character",
+        "char",
+        "九格",
+        "灵魂拷问",
+        "情节是否符合",
+        "人设"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "char.soul_check"
+      ],
+      "relatedAgents": [
+        "CharacterSoulCheckAgent"
+      ],
+      "summary": "每个关键选择用三问检验：他会不会这样做、动机是否充足、是否破坏辨识度。"
+    },
+    {
+      "id": "xiezuo2-character-tricks",
+      "path": "05-character/xiezuo2-character-tricks.md",
+      "title": "人设五技巧与行为逻辑（写作课程2）",
+      "category": "05-character",
+      "tags": [
+        "character",
+        "char",
+        "7",
+        "人设五技巧与",
+        "行为逻辑",
+        "写作课程"
+      ],
+      "authority": "P1",
+      "relatedSkills": [
+        "char.bible_big5",
+        "char.empathy"
+      ],
+      "relatedAgents": [
+        "CharacterBibleAgent"
+      ],
+      "summary": "人设靠「属性、矛盾反差、小处标签、所见所想精神、缺陷」五技巧立起来，靠「性格决定命运」这条红线守逻辑；金手指要有限制，代入感靠六觉等五法，感情线九字真言「爱不得、恨别离、意难平」。"
+    },
+    {
+      "id": "conflict-expectation",
+      "path": "06-structure/conflict-expectation.md",
+      "title": "期待感与冲突设计",
+      "category": "06-structure",
+      "tags": [
+        "structure",
+        "struct",
+        "九格",
+        "4.md；狂更猫",
+        "期待感与冲突",
+        "设计"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "struct.expectation",
+        "struct.conflict"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator"
+      ],
+      "summary": "单元故事四大核心是**矛盾、期待感、情绪、节奏**；期待感 = 主角目标 = 抛钩+收钩（一一对应）；矛盾是推动目标实现的手段，按「冲主角、必绝路、层层升级、别断步、先爽正三观」设计。"
+    },
+    {
+      "id": "fifteen-vs-beat20",
+      "path": "06-structure/fifteen-vs-beat20.md",
+      "title": "查理十五步 ↔ Beat20 对照表",
+      "category": "06-structure",
+      "tags": [
+        "structure",
+        "struct",
+        "查理十五步",
+        "Beat20",
+        "对照表"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "struct.beat20",
+        "struct.*"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator",
+        "Beat20"
+      ],
+      "summary": "十五步是通用故事骨架；Beat20 是短剧付费体量上的同构加密——**先对表再选尺**。"
+    },
+    {
+      "id": "foreshadow-setup-climax",
+      "path": "06-structure/foreshadow-setup-climax.md",
+      "title": "伏笔、铺垫与高潮",
+      "category": "06-structure",
+      "tags": [
+        "structure",
+        "struct",
+        "小说零基础写作班",
+        "伏笔",
+        "铺垫与高潮"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "struct.*"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator"
+      ],
+      "summary": "伏笔是长线可忽略闲笔、后文照应才恍然；铺垫是短线显性造势、不可删；高潮＝欲扬先抑后爆发（揭秘/光环/反转），必须有不可逆反馈。"
+    },
+    {
+      "id": "midpoint-dark-night",
+      "path": "06-structure/midpoint-dark-night.md",
+      "title": "故事中点与至暗时刻",
+      "category": "06-structure",
+      "tags": [
+        "structure",
+        "struct",
+        "故事中点与至",
+        "暗时刻"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "struct.midpoint"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator"
+      ],
+      "summary": "中点**（故事拐点）落在约一半物理时长，主角经历**伪胜/伪败**，之后全片无慢节奏；**至暗时刻**（灵魂黑夜）把主角打到谷底、带死亡气息，再给出须牺牲/成长的方案。"
+    },
+    {
+      "id": "opening-hooks-catalog",
+      "path": "06-structure/opening-hooks-catalog.md",
+      "title": "开篇钩子手法目录",
+      "category": "06-structure",
+      "tags": [
+        "structure",
+        "hook",
+        "开篇钩子手法",
+        "目录"
+      ],
+      "authority": "P1",
+      "relatedSkills": [
+        "hook.*"
+      ],
+      "relatedAgents": [
+        "CoreHookAgent"
+      ],
+      "summary": "开篇可选冲突/悬念/设定/优势展示/高潮前置等路径，按体裁选，目标都是留人。"
+    },
+    {
+      "id": "seven-step-unit",
+      "path": "06-structure/seven-step-unit.md",
+      "title": "七步法单元故事",
+      "category": "06-structure",
+      "tags": [
+        "structure",
+        "struct",
+        "dissect",
+        "九格",
+        "2.md 拆书七步法",
+        "七步法单元故"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "struct.beat_sheet",
+        "dissect.*"
+      ],
+      "relatedAgents": [
+        "DissectAgent"
+      ],
+      "summary": "单元故事七步：**目标 → 阻碍 → 行动 → 结果 → 意外 → 转折 → 结局**，可嵌套进大中小层级，拆书与创作共用同一骨架。"
+    },
+    {
+      "id": "transitions-and-unit-arc",
+      "path": "06-structure/transitions-and-unit-arc.md",
+      "title": "转场、单元弧与章回体",
+      "category": "06-structure",
+      "tags": [
+        "structure",
+        "struct",
+        "零基础",
+        "34；查理",
+        "转场",
+        "单元弧与章回"
+      ],
+      "authority": "P1",
+      "relatedSkills": [
+        "struct.unit_arc"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator"
+      ],
+      "summary": "转场六法轮换；短剧/网文用单元弧保证每集每章可打。"
+    },
+    {
+      "id": "cool12-maslow",
+      "path": "07-emotion-cool/cool12-maslow.md",
+      "title": "十二类爽点与需求层次",
+      "category": "07-emotion-cool",
+      "tags": [
+        "emotion-cool",
+        "struct",
+        "topic",
+        "零基础",
+        "36；九格",
+        "十二类爽点与",
+        "需求层次"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "struct.cool12",
+        "topic.cool_point_5"
+      ],
+      "relatedAgents": [
+        "CoreHookCriticAgent"
+      ],
+      "summary": "爽点按马斯洛需求层次设计，对应十二类套路；读者觉得「爽」是因为情节满足了某一层心理需求；设计爽点先定需求层次，再选套路，且要**多梗叠加**不单一。"
+    },
+    {
+      "id": "emotion-density",
+      "path": "07-emotion-cool/emotion-density.md",
+      "title": "情绪节奏与章级密度",
+      "category": "07-emotion-cool",
+      "tags": [
+        "emotion-cool",
+        "qc",
+        "九格",
+        "5.md；零基础",
+        "情绪节奏与章",
+        "级密度"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "qc.immersion"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator"
+      ],
+      "summary": "所有内容传递的本质都是**情绪**；情绪靠「以事见人」写出来（主角反应+对照组+气氛组），爽/虐用「铺垫→引爆→宣泄」三轮拉扯；节奏是情绪的载体，分快慢/疏密/张弛/紧缓四维。"
+    },
+    {
+      "id": "face-slap",
+      "path": "07-emotion-cool/face-slap.md",
+      "title": "打脸与对比爽感（装逼打脸三阶设计）",
+      "category": "07-emotion-cool",
+      "tags": [
+        "emotion-cool",
+        "struct",
+        "九格",
+        "6–7；狂更猫对比本质",
+        "打脸与对比爽",
+        "装逼打脸三阶",
+        "设计"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "struct.face_slap"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator"
+      ],
+      "summary": "打脸 = 优势反转的可见对比；装逼 = 真有实力 + 适当炫耀；**信息差是打脸爽感的引擎**——谁知道、谁不知道主角实力，决定爽度。节奏越长、拉扯越足，打脸越爽。"
+    },
+    {
+      "id": "pressure-relief",
+      "path": "07-emotion-cool/pressure-relief.md",
+      "title": "解压优先与爽感伦理",
+      "category": "07-emotion-cool",
+      "tags": [
+        "emotion-cool",
+        "decompress-first",
+        "解压优先与爽",
+        "感伦理"
+      ],
+      "authority": "P1",
+      "relatedSkills": [
+        "decompress-first"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator"
+      ],
+      "summary": "商业内容先解压；新媒体传播本质是情绪；用积极可行动情绪而非只制造绝望。"
+    },
+    {
+      "id": "suspense-info-gap",
+      "path": "07-emotion-cool/suspense-info-gap.md",
+      "title": "悬念、信息差与超预期兑现",
+      "category": "07-emotion-cool",
+      "tags": [
+        "emotion-cool",
+        "hook",
+        "悬念",
+        "信息差与超预",
+        "期兑现"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "hook.suspense_design"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator"
+      ],
+      "summary": "悬念=悬置结果；信息差制造主动期待；兑现一加一超预期。"
+    },
+    {
+      "id": "female-four-swap-three",
+      "path": "08-swap-imitate/female-four-swap-three.md",
+      "title": "女频四换三（狂更猫）",
+      "category": "08-swap-imitate",
+      "tags": [
+        "swap-imitate",
+        "swap",
+        "female",
+        "狂更猫写作课程",
+        "女频四换三",
+        "狂更猫"
+      ],
+      "authority": "P1",
+      "relatedSkills": [
+        "swap.*",
+        "female.*"
+      ],
+      "relatedAgents": [
+        "SwapPlanAgent"
+      ],
+      "summary": "女频开书：把榜书拆成背景/人设/金手指/主线四要素，**四个元素换三个、优先保留主线本质**，以降风险开新书。"
+    },
+    {
+      "id": "once-twice-swap",
+      "path": "08-swap-imitate/once-twice-swap.md",
+      "title": "一度与二度换元实操（七步工作流）",
+      "category": "08-swap-imitate",
+      "tags": [
+        "swap-imitate",
+        "swap",
+        "九格",
+        "一度与二度换",
+        "元实操",
+        "七步工作流"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "swap.*"
+      ],
+      "relatedAgents": [
+        "SwapPlanAgent",
+        "SwapApplyOutlineAgent"
+      ],
+      "summary": "一度适合快速跨类型上新；二度适合换核心事件做更深差异化；改纲必须分步（梗概→章纲→细纲），禁止一步改完全书。"
+    },
+    {
+      "id": "six-story-sources",
+      "path": "08-swap-imitate/six-story-sources.md",
+      "title": "换元法六大元素与一度/二度置换",
+      "category": "08-swap-imitate",
+      "tags": [
+        "swap-imitate",
+        "swap",
+        "九格",
+        "换元法.txt；3.md",
+        "换元法六大元",
+        "素与一度",
+        "二度置换"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "swap.master",
+        "swap.*"
+      ],
+      "relatedAgents": [
+        "SwapDiagnoseAgent",
+        "SwapPlanAgent"
+      ],
+      "summary": "一切可换元创新建立在六源诊断：**事件、结构、主体（价值观）、背景、人物、道具**；一度置换只换背景/人物/道具（换皮不换骨），二度置换必换核心事件（换骨）。"
+    },
+    {
+      "id": "wash-vs-imitate-boundary",
+      "path": "08-swap-imitate/wash-vs-imitate-boundary.md",
+      "title": "洗稿、仿节奏与合规边界",
+      "category": "08-swap-imitate",
+      "tags": [
+        "swap-imitate",
+        "imitate",
+        "swap",
+        "九格",
+        "洗稿",
+        "仿节奏与合规",
+        "边界"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "imitate.*",
+        "swap.*"
+      ],
+      "relatedAgents": [
+        "WashDraftAgent",
+        "ImitateRhythmAgent",
+        "StyleExtractAgent"
+      ],
+      "summary": "行业方法谱系「洗稿 → 仿写(粗纺/精纺) → 融梗 → 改编」难度递增；洗稿模式必须显式声明；「第一个思考定基调」是所有长线 AI 任务的方向性原点。"
+    },
+    {
+      "id": "de-ai-qc-checklist",
+      "path": "09-quality/de-ai-qc-checklist.md",
+      "title": "去 AI 味质检清单",
+      "category": "09-quality",
+      "tags": [
+        "quality",
+        "qc",
+        "de-ai-v3",
+        "九格",
+        "去ai味儿.md",
+        "AI",
+        "味质检清单"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "qc.de_ai",
+        "de-ai-v3.8"
+      ],
+      "relatedAgents": [
+        "WashDraftAgent"
+      ],
+      "summary": "质检聚焦禁用表达、句长节奏、人物辨识度、细节可见性四块。"
+    },
+    {
+      "id": "immersion-qc",
+      "path": "09-quality/immersion-qc.md",
+      "title": "代入感与情绪质检",
+      "category": "09-quality",
+      "tags": [
+        "quality",
+        "qc",
+        "struct",
+        "九格",
+        "6–7.md；小说零基础",
+        "代入感与情绪",
+        "质检"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "qc.immersion",
+        "struct.cool12"
+      ],
+      "relatedAgents": [
+        "CoreHookCriticAgent"
+      ],
+      "summary": "代入感基于**真实立体的人物**（不靠华丽文笔），五大问题：人物失真、人物扁平、人物弧线断裂、叙事缺乏紧迫感、反派威胁不足；用「减少过滤词 + 五感内心戏 + 精准动词 + 描写顺序」提升文字表现力。"
+    },
+    {
+      "id": "jiuge-redline-policy",
+      "path": "09-quality/jiuge-redline-policy.md",
+      "title": "写作红线、平台政策与雷区规避",
+      "category": "09-quality",
+      "tags": [
+        "quality",
+        "topic",
+        "九格",
+        "写作红线",
+        "平台政策与雷",
+        "区规避"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "quality.policy",
+        "topic.redline",
+        "quality.logic"
+      ],
+      "relatedAgents": [
+        "PolicyCheckAgent"
+      ],
+      "summary": "政策红线（政治/色情/暴力/价值观/未成年）绝对不能碰；平台红线（抄袭洗稿/标题党/违规导流/断更烂尾/敏感词）会限流甚至封号；创作雷区（人设崩塌/反派降智/同质化/恋爱脑雌竞）是隐形扑街原因。"
+    },
+    {
+      "id": "jiuge-visual-sense",
+      "path": "09-quality/jiuge-visual-sense.md",
+      "title": "画面感与五觉法：把文字改出画面",
+      "category": "09-quality",
+      "tags": [
+        "quality",
+        "九格",
+        "画面感与五觉",
+        "把文字改出画"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "quality.visual",
+        "quality.de_ai_punct"
+      ],
+      "relatedAgents": [
+        "VisualQCAgent"
+      ],
+      "summary": "画面感是 2026 年收稿的硬性标准；用**五觉法**（视听嗅味触）写情节，每处修改只为一个目的——让画面在读者脑海立起来。"
+    },
+    {
+      "id": "precise-prose",
+      "path": "09-quality/precise-prose.md",
+      "title": "精准文笔与信息密度",
+      "category": "09-quality",
+      "tags": [
+        "quality",
+        "prose",
+        "qc",
+        "写作课程2（第1",
+        "3",
+        "精准文笔与信",
+        "息密度"
+      ],
+      "authority": "P1",
+      "relatedSkills": [
+        "prose.precision",
+        "qc.de_ai"
+      ],
+      "relatedAgents": [
+        "StyleExtractAgent"
+      ],
+      "summary": "好文笔不是华丽，是**精准、简洁、信息密度高**；只写最有信息量的那一句，删掉可脑补和冗余的部分；用词精准 → 文学素养 → 立意深远，与去 AI 味同向。"
+    },
+    {
+      "id": "revise20-and-logic",
+      "path": "09-quality/revise20-and-logic.md",
+      "title": "改稿：修改20与逻辑确认",
+      "category": "09-quality",
+      "tags": [
+        "quality",
+        "qc",
+        "gates",
+        "logic-ack",
+        "查理短剧课",
+        "改稿",
+        "修改",
+        "与逻辑确认"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "qc.revise20",
+        "gates",
+        "logic-ack"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator"
+      ],
+      "summary": "先感性写完、再理性表检（修改 20 法则）；逻辑漏洞必须人确认（LogicAck）；90% 失败常归结构（北大口径）；漫剧逻辑问题改正文必须同步改纲。"
+    },
+    {
+      "id": "show-dont-tell",
+      "path": "09-quality/show-dont-tell.md",
+      "title": "展示而非告知（去说明腔）",
+      "category": "09-quality",
+      "tags": [
+        "quality",
+        "prose",
+        "九格",
+        "展示而非告知",
+        "去说明腔"
+      ],
+      "authority": "P1",
+      "relatedSkills": [
+        "prose.*"
+      ],
+      "relatedAgents": [
+        "StyleExtractAgent"
+      ],
+      "summary": "情绪与性格必须通过动作、反应、对话、道具显现，禁止标签式告知；描写前先**锚定情绪**（明确到底写哪一种情绪）。"
+    },
+    {
+      "id": "beida-monetize-paths",
+      "path": "10-ops-monetize/beida-monetize-paths.md",
+      "title": "故事变现路径图谱",
+      "category": "10-ops-monetize",
+      "tags": [
+        "ops-monetize",
+        "北大博士教你故事变现",
+        "故事变现路径",
+        "图谱"
+      ],
+      "authority": "P0",
+      "relatedSkills": [],
+      "relatedAgents": [
+        "WritingOrchestrator"
+      ],
+      "summary": "故事能力可变现于期刊、网文、影视故事、品牌、短视频带货、说服、短故事实战七条路径；核心是「先找准买主，再决定写什么和怎么写」。"
+    },
+    {
+      "id": "fanqie-platform-rules",
+      "path": "10-ops-monetize/fanqie-platform-rules.md",
+      "title": "番茄/网文平台规则速查库（狂更猫 58 条待核实口径）",
+      "category": "10-ops-monetize",
+      "tags": [
+        "ops-monetize",
+        "male_long",
+        "risk-list",
+        "opening-hook",
+        "狂更猫写作课程",
+        "番茄",
+        "网文平台规则",
+        "速查库"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "male_long",
+        "risk-list",
+        "male_long",
+        "opening-hook"
+      ],
+      "relatedAgents": [
+        "MaleRiskAgent",
+        "WritingOrchestrator"
+      ],
+      "summary": "番茄等网文平台规则迭代快，本库把狂更猫课内 58 条「待核实」口径归并为六类（账号红线 / 更新节点 / 数据口径 / 书名简介 / 同人版权 / 题材风向），供发布前自查；**一律以当期平台后台 / 官网为准**，不构成现行承诺，也…"
+    },
+    {
+      "id": "hongniangzi-submit",
+      "path": "10-ops-monetize/hongniangzi-submit.md",
+      "title": "投稿心法与体裁变现",
+      "category": "10-ops-monetize",
+      "tags": [
+        "ops-monetize",
+        "deliver",
+        "ops",
+        "红娘子写作课程（第1",
+        "5",
+        "投稿心法与体",
+        "裁变现"
+      ],
+      "authority": "P1",
+      "relatedSkills": [
+        "deliver.submission_pack",
+        "ops.submit"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator",
+        "SubmitAgent"
+      ],
+      "summary": "商业写作第一步是「谁会为你的故事买单」，而非「我想写什么」；写作与投稿同等重要——写得好却无人看见等于商业失败，退稿是工序不是人格否定；用定位六原则钉死标签后再动笔，按体裁选打法，靠粉丝证明再谈出版。"
+    },
+    {
+      "id": "jiuge-newcomer-path",
+      "path": "10-ops-monetize/jiuge-newcomer-path.md",
+      "title": "新人入行路径、心态与平台分层",
+      "category": "10-ops-monetize",
+      "tags": [
+        "ops-monetize",
+        "onboarding",
+        "topic",
+        "九格",
+        "1.md（开营课）",
+        "新人入行路径",
+        "心态与平台分"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "onboarding.path",
+        "topic.platform_tier"
+      ],
+      "relatedAgents": [
+        "OnboardingAgent"
+      ],
+      "summary": "写作是「体力活掺一部分劳力」；新人先治焦虑再谈写作，目标是**最短路径变现**——先写反馈快、门槛低的小程序文/新媒体文，用短篇入门，再向剧本/中长篇进阶。"
+    },
+    {
+      "id": "mimeng-viral-pipeline",
+      "path": "10-ops-monetize/mimeng-viral-pipeline.md",
+      "title": "迷蒙爆款流水线与变现七途",
+      "category": "10-ops-monetize",
+      "tags": [
+        "ops-monetize",
+        "迷蒙写作课程",
+        "迷蒙爆款流水",
+        "线与变现七途"
+      ],
+      "authority": "P1",
+      "relatedSkills": [],
+      "relatedAgents": [
+        "WritingOrchestrator"
+      ],
+      "summary": "爆款 = 自我表达 × 用户需求（人性十大元素做底层）；用 40 个模板沿「选题 → 标题 → 开头 → 结构 → 结尾 → 金句 / 故事」流水线生产，再用 7 种途径变现。"
+    },
+    {
+      "id": "shortvideo-nine-ways",
+      "path": "10-ops-monetize/shortvideo-nine-ways.md",
+      "title": "抖音变现九种方式",
+      "category": "10-ops-monetize",
+      "tags": [
+        "ops-monetize",
+        "查理短视频商业训练营",
+        "抖音变现九种",
+        "方式"
+      ],
+      "authority": "P1",
+      "relatedSkills": [],
+      "relatedAgents": [
+        "WritingOrchestrator"
+      ],
+      "summary": "抖音变现共九种，分「依赖直播」与「不依赖直播」两大类；先按能力选主变现 + 备变现（至少两个），再匹配内容形态与赛道人设。"
+    },
+    {
+      "id": "shortvideo-triangle",
+      "path": "10-ops-monetize/shortvideo-triangle.md",
+      "title": "短视频三角定位与需求三级",
+      "category": "10-ops-monetize",
+      "tags": [
+        "ops-monetize",
+        "biz",
+        "短视频三角定",
+        "位与需求三级"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "biz.product_align"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator"
+      ],
+      "summary": "先定「变现方式」（至少两个）当目标，再用「三角定位」选赛道：自身局部优势 → 用户需求 → 平台变现，顺序不能反；用户需求分激素 / 人性 / 价值三级，越往前受众越广。"
+    },
+    {
+      "id": "zhihu-account-and-ops",
+      "path": "10-ops-monetize/zhihu-account-and-ops.md",
+      "title": "账号价值、选题与全媒体运营",
+      "category": "10-ops-monetize",
+      "tags": [
+        "ops-monetize",
+        "ops",
+        "topic",
+        "知乎-短篇创作营",
+        "账号价值",
+        "选题与全媒体",
+        "运营"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "ops.account",
+        "topic.market_brief",
+        "ops.monetize"
+      ],
+      "relatedAgents": [
+        "MarketBriefAgent",
+        "WritingOrchestrator"
+      ],
+      "summary": "账号价值＝定位×流量×变现，三者是乘法（任一为零全盘为零）；选题靠「反推用户需求」而非拍脑袋，流量靠「观点鲜明＋垂直度＋互动」而非粉丝数，变现靠「兼容多条腿」而非单押一种。"
+    },
+    {
+      "id": "zhihu-commercial-templates",
+      "path": "10-ops-monetize/zhihu-commercial-templates.md",
+      "title": "知乎商业内容三模板与卖点提炼",
+      "category": "10-ops-monetize",
+      "tags": [
+        "ops-monetize",
+        "ops",
+        "topic",
+        "知乎-短篇创作营",
+        "知乎商业内容",
+        "三模板与卖点",
+        "提炼"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "ops.monetize",
+        "topic.market_brief"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator",
+        "MarketBriefAgent"
+      ],
+      "summary": "动笔前先选品炼 FABE 卖点；结构套解决方案型/横向对比型/经历分享型三模板；再叠加配图排版、读懂客户 brief、借推荐机制获曝光、用风险自检兜底——这是一条「卖点→结构→表达→分发→合规」的完整商业带货链路。"
+    },
+    {
+      "id": "brand-story-modes",
+      "path": "11-ip-adapt/brand-story-modes.md",
+      "title": "品牌故事五种正面模式",
+      "category": "11-ip-adapt",
+      "tags": [
+        "ip-adapt",
+        "北大博士教你故事变现",
+        "品牌故事五种",
+        "正面模式"
+      ],
+      "authority": "P2",
+      "relatedSkills": [],
+      "relatedAgents": [
+        "WritingOrchestrator"
+      ],
+      "summary": "构建品牌 = 把自己当作品、别人当读者；用「斩妖除魔 / 白手成家 / 一路追寻 / 远行归来 / 重生」五种正面情节模式组织品牌叙事，建立信任。"
+    },
+    {
+      "id": "jiuge-ip-adapt",
+      "path": "11-ip-adapt/jiuge-ip-adapt.md",
+      "title": "IP 改编方法论（九格）",
+      "category": "11-ip-adapt",
+      "tags": [
+        "ip-adapt",
+        "ip",
+        "九格",
+        "13.md",
+        "IP",
+        "改编方法论"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "ip.*"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator"
+      ],
+      "summary": "IP改编要保留可识别核（人物关系/核心冲突/名场面），按目标媒介重写节奏与规格。"
+    },
+    {
+      "id": "novel-to-manju",
+      "path": "11-ip-adapt/novel-to-manju.md",
+      "title": "网文改漫剧要点",
+      "category": "11-ip-adapt",
+      "tags": [
+        "ip-adapt",
+        "manju",
+        "ip",
+        "网文改漫剧要"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "manju.*",
+        "ip.*"
+      ],
+      "relatedAgents": [
+        "CoreHookAgent"
+      ],
+      "summary": "从小说抽核心梗与可拍名场面，重做分集爆点前置，去小说腔上分镜。"
+    },
+    {
+      "id": "screen-adapt-checklist",
+      "path": "11-ip-adapt/screen-adapt-checklist.md",
+      "title": "影视向改编检查单",
+      "category": "11-ip-adapt",
+      "tags": [
+        "ip-adapt",
+        "ip",
+        "qc",
+        "影视向改编检",
+        "查单"
+      ],
+      "authority": "P1",
+      "relatedSkills": [
+        "ip.adapt",
+        "qc.redline"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator"
+      ],
+      "summary": "影视向不看「文笔」，看「可拍性」：大背景值钱、人物立得住、冲突密集新鲜、行为有逻辑、主题能升华，且**过得了审查**是前提；框架完整即可先卖故事，禁大段闪回/旁白依赖。"
+    },
+    {
+      "id": "xiezuo1-pilot-structure",
+      "path": "11-ip-adapt/xiezuo1-pilot-structure.md",
+      "title": "一小时试播集结构法（写作课程1）",
+      "category": "11-ip-adapt",
+      "tags": [
+        "ip-adapt",
+        "ip",
+        "struct",
+        "一小时试播集",
+        "结构法",
+        "写作课程"
+      ],
+      "authority": "P1",
+      "relatedSkills": [
+        "ip.adapt",
+        "struct.pilot"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator"
+      ],
+      "summary": "用 Michael Hauge 的故事定义作地基（富有同情心的角色 + 越来越难看似无法逾越的障碍 + 不可抗拒的渴望），配合「四原型（孤儿→流浪者→战士→烈士）」和「四幕结构（Teaser+Act1/2/3/4）」把一小时试播集写成…"
+    },
+    {
+      "id": "chase-wife-template",
+      "path": "12-female-long/chase-wife-template.md",
+      "title": "追妻火葬场模板",
+      "category": "12-female-long",
+      "tags": [
+        "female-long",
+        "chase-wife",
+        "manju",
+        "九格",
+        "8.md、流程文；手册",
+        "追妻火葬场模"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "chase-wife",
+        "manju.core_hook"
+      ],
+      "relatedAgents": [
+        "CoreHookAgent"
+      ],
+      "summary": "追妻是强情绪女频/漫剧高热模板：**虐→毁→追→合**（或五部曲：决裂→转折→觉醒→追妻→结局），伤害→悔→追→反复拉扯，爆点前置，反派无好下场。"
+    },
+    {
+      "id": "female-emotion-romance",
+      "path": "12-female-long/female-emotion-romance.md",
+      "title": "女频情绪与爱情套路",
+      "category": "12-female-long",
+      "tags": [
+        "female-long",
+        "struct",
+        "狂更猫",
+        "女频情绪与爱",
+        "情套路"
+      ],
+      "authority": "P1",
+      "relatedSkills": [
+        "struct.female_pace"
+      ],
+      "relatedAgents": [
+        "CharacterBibleAgent"
+      ],
+      "summary": "女频抓人设+情绪；爱情套路＝好时分开、差时凑近；拉扯暧昧（主动终止式）重于宣布在一起。"
+    },
+    {
+      "id": "female-opening-five",
+      "path": "12-female-long/female-opening-five.md",
+      "title": "女频开篇五要素与前三章",
+      "category": "12-female-long",
+      "tags": [
+        "female-long",
+        "female",
+        "hook",
+        "狂更猫",
+        "女频开篇五要",
+        "素与前三章"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "female.*",
+        "hook.*"
+      ],
+      "relatedAgents": [
+        "CoreHookAgent"
+      ],
+      "summary": "第一章五要素：女主是谁/在怎样的世界、金手指、面临现状、思考行动、有效突发；前三章按对标「章功能」仿、不仿事件。"
+    },
+    {
+      "id": "female-pace",
+      "path": "12-female-long/female-pace.md",
+      "title": "女频长篇节奏",
+      "category": "12-female-long",
+      "tags": [
+        "female-long",
+        "struct",
+        "female",
+        "九格",
+        "女频长篇节奏"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "struct.female_pace",
+        "female.*"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator"
+      ],
+      "summary": "女频抓人设与情绪；节奏服务关系拉扯与打脸虐渣，而非纯升级流水线。"
+    },
+    {
+      "id": "jiuge-female-track-monetize",
+      "path": "12-female-long/jiuge-female-track-monetize.md",
+      "title": "女频赛道拆解、平台签约与变现适配",
+      "category": "12-female-long",
+      "tags": [
+        "female-long",
+        "topic",
+        "ops",
+        "九格",
+        "女频赛道拆解",
+        "平台签约与变",
+        "现适配"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "topic.female_track",
+        "ops.monetize"
+      ],
+      "relatedAgents": [
+        "FemaleTrackAgent",
+        "MonetizeAgent"
+      ],
+      "summary": "女频中长篇选赛道：核心赛道（75%：现代言情45% + 古言38%）是安全牌，潜力赛道（15%：年代文12% + 仙侠古言3%等）易出小爆款，冷门赛道（10%）不建议商业化新手；变现靠签约（阅文/番茄/晋江）→ 付费点 → 衍生改编。"
+    },
+    {
+      "id": "commercial-storytelling",
+      "path": "13-short-fiction/commercial-storytelling.md",
+      "title": "故事化商业写作",
+      "category": "13-short-fiction",
+      "tags": [
+        "short-fiction",
+        "struct",
+        "ops",
+        "知乎-短篇创作营",
+        "故事化商业写"
+      ],
+      "authority": "P1",
+      "relatedSkills": [
+        "struct.story",
+        "ops.monetize"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator"
+      ],
+      "summary": "讲故事比讲道理更有用：故事化＝把故事技巧融入营销传播，其成败取决于「讲给谁、传什么价值观、言行是否一致」；落到内容用「粘性六原则」（简单/意外/具体/可信/情感/故事），落到变现用知乎严选短篇（1-3 万字、重逻辑、千字千元）。"
+    },
+    {
+      "id": "jiuge-topic-avoidance",
+      "path": "13-short-fiction/jiuge-topic-avoidance.md",
+      "title": "短篇选题避坑与平台政策/写作禁忌",
+      "category": "13-short-fiction",
+      "tags": [
+        "short-fiction",
+        "topic",
+        "quality",
+        "九格",
+        "短篇选题避坑",
+        "与平台政策",
+        "写作禁忌"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "topic.safe_check",
+        "quality.policy"
+      ],
+      "relatedAgents": [
+        "PolicyCheckAgent"
+      ],
+      "summary": "选题五大坑：悬浮空洞、狗血俗套、敏感话题、盲目跟风抄袭、受众模糊；写积极的、健康的、正能量的内容才能长久过审、不被封号。"
+    },
+    {
+      "id": "jiuge-topic-selection",
+      "path": "13-short-fiction/jiuge-topic-selection.md",
+      "title": "短篇选题：扒榜、老梗缝合、热点落地与受众定位",
+      "category": "13-short-fiction",
+      "tags": [
+        "short-fiction",
+        "topic",
+        "九格",
+        "短篇选题",
+        "扒榜",
+        "老梗缝合",
+        "热点落地与受",
+        "众定位"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "topic.short_pick",
+        "topic.audience"
+      ],
+      "relatedAgents": [
+        "ShortTopicAgent"
+      ],
+      "summary": "商业化短篇选题的核心**不是写自己喜欢的，而是写读者喜欢、市场需要、同时有自己的特色**——懂读者 + 懂市场 + 有特色。"
+    },
+    {
+      "id": "newmedia-formula",
+      "path": "13-short-fiction/newmedia-formula.md",
+      "title": "新媒体爆款公式",
+      "category": "13-short-fiction",
+      "tags": [
+        "short-fiction",
+        "topic",
+        "struct",
+        "新媒体爆款公"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "topic.hotspot",
+        "struct.hook"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator"
+      ],
+      "summary": "新媒体爆款 ≈ 强代入 + 极快节奏 + 激烈冲突 + 白话接地气 + 话题套路；生死在第一章约 3000 字，留不住就没有后面。"
+    },
+    {
+      "id": "short-hotspot-fast",
+      "path": "13-short-fiction/short-hotspot-fast.md",
+      "title": "短篇热点快投法",
+      "category": "13-short-fiction",
+      "tags": [
+        "short-fiction",
+        "topic",
+        "deliver",
+        "红娘子写作课程（第6",
+        "7",
+        "短篇热点快投"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "topic.hotspot",
+        "deliver.submission_pack"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator",
+        "SubmitAgent"
+      ],
+      "summary": "短篇的生死线是「唯快不破」：盯热点当日选题、把情节人物新闻化接地气、开篇直接放最精彩（高潮前置）、结局出人意料且正能量，然后快速投出、退稿继续投。"
+    },
+    {
+      "id": "zero-practice-short-long",
+      "path": "13-short-fiction/zero-practice-short-long.md",
+      "title": "0基础实战：短篇与长篇衔接（冲突·大纲·人物·情节·价值观）",
+      "category": "13-short-fiction",
+      "tags": [
+        "short-fiction",
+        "struct",
+        "char",
+        "topic",
+        "基础实战",
+        "短篇与长篇衔",
+        "冲突",
+        "大纲"
+      ],
+      "authority": "P1",
+      "relatedSkills": [
+        "struct.outline",
+        "char.bible_big5",
+        "topic.value"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator",
+        "CharacterBibleAgent"
+      ],
+      "summary": "这门 F4 实战课讲「从认知到成稿」的全链路：先认清行业与心态，再用「冲突—反派—高潮」搭动力系统，用「大纲—细纲—人物—情节—价值观」搭骨架血肉，最后靠套路模板落地；短篇练构思、长篇靠大纲，两者靠「先验证冲突再开长篇」衔接。"
+    },
+    {
+      "id": "zhihu-short-structure",
+      "path": "13-short-fiction/zhihu-short-structure.md",
+      "title": "知乎短篇结构与爆款开篇",
+      "category": "13-short-fiction",
+      "tags": [
+        "short-fiction",
+        "topic",
+        "struct",
+        "char",
+        "知乎-短篇创作营",
+        "知乎短篇结构",
+        "与爆款开篇"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "topic.*",
+        "struct.*",
+        "char.*"
+      ],
+      "relatedAgents": [
+        "CoreHookAgent",
+        "WritingOrchestrator"
+      ],
+      "summary": "短篇是「单线叙事＋强开篇＋一波三折＋真实感细节」的 1-3 万字精品，完整链路＝类型拆解→素材/案件→构思→角色→结构开篇→情节→真实感悬疑→细节；核心纪律是「一条主线到底、开篇前 800 字定生死、每个细节都有功能」。"
+    },
+    {
+      "id": "zhihu-story-topics",
+      "path": "13-short-fiction/zhihu-story-topics.md",
+      "title": "知乎06故事专题精华（合并）",
+      "category": "13-short-fiction",
+      "tags": [
+        "short-fiction",
+        "topic",
+        "hook",
+        "char",
+        "知乎营",
+        "知乎",
+        "故事专题精华",
+        "合并"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "topic.*",
+        "hook.*",
+        "char.*"
+      ],
+      "relatedAgents": [
+        "CoreHookAgent",
+        "WritingOrchestrator"
+      ],
+      "summary": "把 06 专题收成四根柱：**爆款公式**定主线与节奏，**人设即故事**定创意种子，**极简情节**定因果，**题材锦囊＋拆解仿写＋识人**定加料与训练；前两根是「写什么」，后两根是「怎么写与怎么练」。"
+    },
+    {
+      "id": "ctfdp-and-one-liner",
+      "path": "14-story-craft/ctfdp-and-one-liner.md",
+      "title": "CTFDP 与一句话故事",
+      "category": "14-story-craft",
+      "tags": [
+        "story-craft",
+        "topic",
+        "CTFDP",
+        "与一句话故事"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "topic.formula"
+      ],
+      "relatedAgents": [
+        "CoreHookAgent"
+      ],
+      "summary": "选材用 **CTFDP**（角色/目标/幻想/困境/谜题，商业片最好复合两种）；一句话故事模型＝「一个**什么人**在**什么情况**下，仍然要**完成什么目标**」，目标是主动的，验证方式是讲给人听是否想知道后事。"
+    },
+    {
+      "id": "fifteen-elements-ab",
+      "path": "14-story-craft/fifteen-elements-ab.md",
+      "title": "十五元素与 AB 故事",
+      "category": "14-story-craft",
+      "tags": [
+        "story-craft",
+        "struct",
+        "查理老师的编剧孵化营",
+        "十五元素与",
+        "AB",
+        "故事"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "struct.*"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator"
+      ],
+      "summary": "故事 = 环境 + 人物 + 事件 + 主题（共 15 个元素）；A 线＝Want（外在欲望/事件线）、B 线＝Need（内在需求/成长线），**不要叫主副线**——一个讲「事」、一个讲「人」。"
+    },
+    {
+      "id": "fifteen-steps",
+      "path": "14-story-craft/fifteen-steps.md",
+      "title": "十五步写出好故事",
+      "category": "14-story-craft",
+      "tags": [
+        "story-craft",
+        "struct",
+        "topic",
+        "十五步写出好",
+        "故事"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "struct.beat20",
+        "struct.midpoint",
+        "topic.formula"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator"
+      ],
+      "summary": "好故事的尺子＝**对抗＋变化＝吸引，共情＝留住**；用 CTFDP 选好题材（最好复合两种），再按 15 步搭出故事骨架，就能立住一个故事的基本结构，得到进一步创作剧本的「源代码」。"
+    },
+    {
+      "id": "four-act-beats",
+      "path": "14-story-craft/four-act-beats.md",
+      "title": "四幕式节拍表",
+      "category": "14-story-craft",
+      "tags": [
+        "story-craft",
+        "struct",
+        "四幕式节拍表"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "struct.beat20",
+        "struct.midpoint"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator"
+      ],
+      "summary": "三幕式（建制—对抗—解决，约 1:2:1）可扩为四幕式（建制—推进—转折—解决，对应起承转合）；**故事中点**落在中间（伪胜/伪败）；**金牌道具**开场埋下、第四幕重新解读，闭环解局。"
+    },
+    {
+      "id": "genre-ten-types",
+      "path": "14-story-craft/genre-ten-types.md",
+      "title": "类型片十大共情点",
+      "category": "14-story-craft",
+      "tags": [
+        "story-craft",
+        "topic",
+        "类型片十大共",
+        "情点"
+      ],
+      "authority": "P1",
+      "relatedSkills": [
+        "topic.*"
+      ],
+      "relatedAgents": [
+        "MarketBriefAgent"
+      ],
+      "summary": "按「**主共情点**」给故事归类（施奈德《救猫咪》十类型）：金羊毛 / 伙伴之情 / 超级英雄 / 鬼屋 / 侦探 / 如愿以偿 / 麻烦家伙 / 变迁仪式 / 愚者成功 / 被制度化；一个故事可有多个共情点。"
+    },
+    {
+      "id": "harvard-trust-and-public-narrative",
+      "path": "14-story-craft/harvard-trust-and-public-narrative.md",
+      "title": "故事建立信任与公共叙事三段论",
+      "category": "14-story-craft",
+      "tags": [
+        "story-craft",
+        "馒头商学院·哈佛故事课",
+        "故事建立信任",
+        "与公共叙事三",
+        "段论"
+      ],
+      "authority": "P0",
+      "relatedSkills": [],
+      "relatedAgents": [
+        "WritingOrchestrator"
+      ],
+      "summary": "故事的本质是建立信任（催产素）；用三段论（我的故事 + 我们的故事 + 眼下的故事）和英雄之路组织故事，用情绪推动行动。"
+    },
+    {
+      "id": "story-equals-accident",
+      "path": "14-story-craft/story-equals-accident.md",
+      "title": "故事=意外（北大博士）",
+      "category": "14-story-craft",
+      "tags": [
+        "story-craft",
+        "struct",
+        "北大博士教你故事变现",
+        "故事",
+        "意外",
+        "北大博士"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "struct.*"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator"
+      ],
+      "summary": "故事的本质是「意外」：稳定被不可抵抗的力量打破 → 挣扎 → 爬出；写故事 = 虐主（三角冲突 + 怨憎会 + 怕什么来什么）+ 撩观众（认知差异 + 偏离预期）。"
+    },
+    {
+      "id": "README",
+      "path": "15-prompts/README.md",
+      "title": "Prompt 资产索引",
+      "category": "15-prompts",
+      "tags": [
+        "prompts",
+        "prompt",
+        "Prompt",
+        "资产索引"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "prompt.*"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator"
+      ],
+      "summary": "本目录只做索引与用法要点，不整篇复制超长手册原文；完整模板见源文件与 registry。"
+    },
+    {
+      "id": "core-hook-prompt-usage",
+      "path": "15-prompts/core-hook-prompt-usage.md",
+      "title": "核心梗批产 Prompt 用法",
+      "category": "15-prompts",
+      "tags": [
+        "prompts",
+        "manju",
+        "九格",
+        "流程文 + 手册",
+        "核心梗批产",
+        "Prompt",
+        "用法"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "manju.core_hook"
+      ],
+      "relatedAgents": [
+        "CoreHookAgent",
+        "HookComboAgent"
+      ],
+      "summary": "锁定输出字段与题材约束，可变数量与风格；必须接 Critic。"
+    },
+    {
+      "id": "de-ai-prompt-usage",
+      "path": "15-prompts/de-ai-prompt-usage.md",
+      "title": "去 AI 味 Prompt 用法",
+      "category": "15-prompts",
+      "tags": [
+        "prompts",
+        "de-ai-v3",
+        "九格",
+        "去ai味儿.md",
+        "AI",
+        "Prompt",
+        "用法"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "de-ai-v3.8"
+      ],
+      "relatedAgents": [
+        "WashDraftAgent"
+      ],
+      "summary": "将 V3.8 全文作系统规则，按章/集分段输入；禁止一次丢全书。"
+    },
+    {
+      "id": "manju-cool18-kartian",
+      "path": "15-prompts/manju-cool18-kartian.md",
+      "title": "漫剧十八爽点 + 卡点三类（手册干货切片）",
+      "category": "15-prompts",
+      "tags": [
+        "prompts",
+        "漫剧十八爽点",
+        "卡点三类",
+        "手册干货切片"
+      ],
+      "authority": "P1",
+      "relatedSkills": [],
+      "relatedAgents": [],
+      "summary": "集纲每集点名 1–2 个十八模型 + 一个卡点类型；人工「能不能用」后再写正文。"
+    },
+    {
+      "id": "manju-handbook-index",
+      "path": "15-prompts/manju-handbook-index.md",
+      "title": "AI漫剧实操手册提示词索引",
+      "category": "15-prompts",
+      "tags": [
+        "prompts",
+        "manju",
+        "九格",
+        "文件资料",
+        "AI",
+        "漫剧实操手册",
+        "提示词索引"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "manju.*"
+      ],
+      "relatedAgents": [
+        "CoreHookAgent",
+        "WritingOrchestrator"
+      ],
+      "summary": "手册按阶段提供：核心梗、大纲、单集、校正、扩纲、小传等提示词；使用时只抽当前阶段段。产品中间态见 Pipeline「手册SOP」Tab，不另建 Stage。"
+    },
+    {
+      "id": "manju-script-format-gates",
+      "path": "15-prompts/manju-script-format-gates.md",
+      "title": "漫剧剧本规格闸（手册第三节切片）",
+      "category": "15-prompts",
+      "tags": [
+        "prompts",
+        "漫剧剧本规格",
+        "手册第三节切"
+      ],
+      "authority": "P1",
+      "relatedSkills": [],
+      "relatedAgents": [],
+      "summary": "漫剧剧本规格闸（手册第三节切片）"
+    },
+    {
+      "id": "swap-prompt-usage",
+      "path": "15-prompts/swap-prompt-usage.md",
+      "title": "换元法 Prompt 用法",
+      "category": "15-prompts",
+      "tags": [
+        "prompts",
+        "swap",
+        "九格",
+        "换元法.txt",
+        "换元法",
+        "Prompt",
+        "用法"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "swap.master"
+      ],
+      "relatedAgents": [
+        "SwapPlanAgent",
+        "SwapDiagnoseAgent"
+      ],
+      "summary": "先加载换元法 3.0 角色规则，再给原作与创新目标指令；输出必须含映射与架构。"
+    },
+    {
+      "id": "cool-face-slap",
+      "path": "16-male-long/cool-face-slap.md",
+      "title": "男频爽点密度与装逼打脸",
+      "category": "16-male-long",
+      "tags": [
+        "male-long",
+        "male_long",
+        "cool-density",
+        "structure",
+        "face-slap-tiers",
+        "狂更猫",
+        "男频爽点密度",
+        "与装逼打脸"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "male_long",
+        "cool-density",
+        "structure",
+        "face-slap-tiers"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator",
+        "MaleCoolDensityAgent"
+      ],
+      "summary": "男频爽感 = 优势反转的可见对比 + 信息差期待兑现；章级要有密度曲线（一章 ≥2～3 个引爆点），打脸要有抑扬、见证与后果。"
+    },
+    {
+      "id": "gold-finger-male",
+      "path": "16-male-long/gold-finger-male.md",
+      "title": "男频金手指：限制、成长与推剧情",
+      "category": "16-male-long",
+      "tags": [
+        "male-long",
+        "male_long",
+        "gold-finger-cap",
+        "upgrade-loop",
+        "小说零基础写作班",
+        "39；狂更猫",
+        "男频金手指",
+        "限制"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "male_long",
+        "gold-finger-cap",
+        "male_long",
+        "upgrade-loop"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator",
+        "MaleGoldFingerCapAgent"
+      ],
+      "summary": "金手指把不合理合理化：少而可延伸、弱开有成长；用固定规则反复解决问题，并在解决后制造新问题以驱动循环。"
+    },
+    {
+      "id": "male-risk-and-scan",
+      "path": "16-male-long/male-risk-and-scan.md",
+      "title": "男频雷区与扫榜体检",
+      "category": "16-male-long",
+      "tags": [
+        "male-long",
+        "male_long",
+        "risk-list",
+        "opening-hook",
+        "cool-density",
+        "狂更猫避坑",
+        "男频雷区与扫",
+        "榜体检"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "male_long",
+        "risk-list",
+        "male_long",
+        "opening-hook",
+        "male_long",
+        "cool-density"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator",
+        "MaleRiskAgent"
+      ],
+      "summary": "男频中长篇高频翻车：无脑碾压、设定堆砌、后宫水文、循环终点错位、爽点无对比；用清单扫描 + 自然榜对标气质，政策项必须人工确认。"
+    },
+    {
+      "id": "upgrade-loop",
+      "path": "16-male-long/upgrade-loop.md",
+      "title": "男频升级流循环",
+      "category": "16-male-long",
+      "tags": [
+        "male-long",
+        "male_long",
+        "upgrade-loop",
+        "gold-finger-cap",
+        "狂更猫",
+        "男频升级流循"
+      ],
+      "authority": "P0",
+      "relatedSkills": [
+        "male_long",
+        "upgrade-loop",
+        "male_long",
+        "gold-finger-cap"
+      ],
+      "relatedAgents": [
+        "WritingOrchestrator",
+        "MaleUpgradeLoopAgent"
+      ],
+      "summary": "男频中长篇靠「固定金手指 + 目标迭代」循环推进；单循环走压抑→爆发→打脸→新目标，升级是爽点通道而非爽点本身；人设走「成长（能力）为主、次性格可感转变」，主性格稳定。"
+    }
+  ]
+}

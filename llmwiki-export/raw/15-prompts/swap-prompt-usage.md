@@ -1,0 +1,35 @@
+---
+title: "换元法 Prompt 用法"
+project: "xiezuomanju"
+source_path: "15-prompts/swap-prompt-usage.md"
+category: "prompts"
+kind: "prompts"
+distilled: true
+source_layer: raw
+content_sha256: "f04c283700c56be2b45e109d653494e0020997c8b02308958ff048083f20ef66"
+source_bytes: 750
+usage: "internal-writing-assistance"
+source_boundary: "retain attribution; verify rights before redistribution"
+---
+# 换元法 Prompt 用法
+> 来源：九格 / 换元法.txt
+> 权威级别：P0
+> 关联 Skills：swap.master
+> 关联 Agents：SwapPlanAgent, SwapDiagnoseAgent
+
+## 一句话
+先加载换元法 3.0 角色规则，再给原作与创新目标指令；输出必须含映射与架构。
+
+## 核心要点（条目）
+- 初始化三问：原作、创新效果、置换偏好。
+- 输出格式锁定：换元思路 + 故事架构（梗概/情节点/人物/场景）。
+- 一度/二度在指令中写明。
+
+## 可执行清单 / 模板
+- 规则消息锁定角色 → 用户消息给原文摘要+目标 → 要 ≥3 方案。
+
+## 反模式
+- 无六源诊断直接要正文。
+
+## 与其他课差异（若有）
+- 无显著冲突；按权威源原则引用。
